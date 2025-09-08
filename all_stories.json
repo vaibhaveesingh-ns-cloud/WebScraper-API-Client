@@ -1,0 +1,4370 @@
+{
+    "https://www.freechildrenstories.com/": [
+        {
+            "title": "All Kids Stories",
+            "link": "https://www.freechildrenstories.com/kids-stories"
+        },
+        {
+            "title": "All Kids Stories",
+            "link": "https://www.freechildrenstories.com/kids-stories"
+        },
+        {
+            "title": "Rhyming Stories For Kids",
+            "link": "https://www.freechildrenstories.com/rhyming-stories"
+        },
+        {
+            "title": "Non-Rhyming Stories For Kids",
+            "link": "https://www.freechildrenstories.com/nonrhyming-stories"
+        },
+        {
+            "title": "Bedtime Stories For Kids",
+            "link": "https://www.freechildrenstories.com/bedtime-stories"
+        },
+        {
+            "title": "NEW! Text-Only Stories For Kids",
+            "link": "https://www.freechildrenstories.com/text-stories"
+        },
+        {
+            "title": "Facebook",
+            "link": "https://www.facebook.com/freechildrenstories/"
+        },
+        {
+            "title": "Featured Bedtime Story",
+            "link": "https://www.freechildrenstories.com/#featured-bedtime-story"
+        },
+        {
+            "title": "Bedtime Stories",
+            "link": "https://www.freechildrenstories.com/bedtime-stories"
+        },
+        {
+            "title": "Rhyming Stories",
+            "link": "https://www.freechildrenstories.com/rhyming-stories"
+        },
+        {
+            "title": "Non-Rhyming Stories",
+            "link": "https://www.freechildrenstories.com/nonrhyming-stories"
+        }
+    ],
+    "https://americanliterature.com/short-stories-for-children/": [
+        {
+            "title": "Short Story of the Day",
+            "link": "https://americanliterature.com/short-story-of-the-day/"
+        },
+        {
+            "title": "100 Great Short Stories",
+            "link": "https://americanliterature.com/100-great-short-stories/"
+        },
+        {
+            "title": "20 Great American Short Stories",
+            "link": "https://americanliterature.com/twenty-great-american-short-stories/"
+        },
+        {
+            "title": "Short Story Collections",
+            "link": "https://americanliterature.com/short-story-collections/"
+        },
+        {
+            "title": "Children's Stories",
+            "link": "https://americanliterature.com/short-stories-for-children/"
+        },
+        {
+            "title": "Three Little Pigs",
+            "link": "https://americanliterature.com/childrens-stories/the-three-little-pigs"
+        },
+        {
+            "title": "Little Red Riding Hood",
+            "link": "https://americanliterature.com/childrens-stories/little-red-riding-hood"
+        },
+        {
+            "title": "Fairy Tales",
+            "link": "https://americanliterature.com/fairy-tales/"
+        },
+        {
+            "title": "Fairy Tales by Age",
+            "link": "https://americanliterature.com/fairy-tales-guide/"
+        },
+        {
+            "title": "Short Stories for High School I",
+            "link": "https://americanliterature.com/high-school-short-stories/"
+        },
+        {
+            "title": "Short Stories for High School II",
+            "link": "https://americanliterature.com/high-school-short-stories-ii/"
+        },
+        {
+            "title": "Short Stories for Middle School I",
+            "link": "https://americanliterature.com/middle-school-short-stories/"
+        },
+        {
+            "title": "Short Stories for Middle School II",
+            "link": "https://americanliterature.com/middle-school-short-stories-ii/"
+        },
+        {
+            "title": "Short Stories for Students",
+            "link": "https://americanliterature.com/short-stories-for-students/"
+        },
+        {
+            "title": "Mystery Writers",
+            "link": "https://americanliterature.com/mystery-stories/"
+        },
+        {
+            "title": "The Monkey's Paw",
+            "link": "https://americanliterature.com/author/w-w-jacobs/short-story/the-monkeys-paw/"
+        },
+        {
+            "title": "The Necklace",
+            "link": "https://americanliterature.com/author/guy-de-maupassant/short-story/the-necklace/"
+        },
+        {
+            "title": "The Aged Mother",
+            "link": "https://americanliterature.com/author/matsuo-basho/short-story/the-aged-mother/"
+        },
+        {
+            "title": "An Occurrence at Owl Creek Bridge",
+            "link": "https://americanliterature.com/author/ambrose-bierce/short-story/an-occurrence-at-owl-creek-bridge/"
+        },
+        {
+            "title": "The Gift of the Magi",
+            "link": "https://americanliterature.com/author/o-henry/short-story/the-gift-of-the-magi/"
+        },
+        {
+            "title": "Favorite Fairy Tales",
+            "link": "https://americanliterature.com/fairy-tales-guide/"
+        },
+        {
+            "title": "Short Stories for Students",
+            "link": "https://americanliterature.com/short-stories-for-students/"
+        },
+        {
+            "title": "The Three Little Pigs",
+            "link": "https://americanliterature.com/childrens-stories/the-three-little-pigs"
+        },
+        {
+            "title": "Little Red Riding Hood",
+            "link": "https://americanliterature.com/childrens-stories/little-red-riding-hood"
+        },
+        {
+            "title": "The Velveteen Rabbit",
+            "link": "https://americanliterature.com/author/margery-williams/short-story/the-velveteen-rabbit"
+        },
+        {
+            "title": "Jack and the Beanstalk",
+            "link": "https://americanliterature.com/childrens-stories/jack-and-the-beanstalk"
+        },
+        {
+            "title": "The Tale of Peter Rabbit",
+            "link": "https://americanliterature.com/author/beatrix-potter/short-story/the-tale-of-peter-rabbit"
+        },
+        {
+            "title": "The Elves and the Shoemaker",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/short-story/the-elves-and-the-shoemaker"
+        },
+        {
+            "title": "The Bogey-Beast",
+            "link": "https://americanliterature.com/childrens-stories/the-bogey-beast"
+        },
+        {
+            "title": "St. George and the Dragon",
+            "link": "https://americanliterature.com/childrens-stories/st-george-and-the-dragon"
+        },
+        {
+            "title": "Snow White",
+            "link": "https://americanliterature.com/childrens-stories/snow-white"
+        },
+        {
+            "title": "Cinderella",
+            "link": "https://americanliterature.com/childrens-stories/cinderella"
+        },
+        {
+            "title": "Rikki-Tikki-Tavi",
+            "link": "https://americanliterature.com/author/rudyard-kipling/short-story/rikki-tikki-tavi"
+        },
+        {
+            "title": "The Tortoise & the Hare",
+            "link": "https://americanliterature.com/author/aesop/short-story/the-tortoise-and-the-hare"
+        },
+        {
+            "title": "The Gingerbread Man",
+            "link": "https://americanliterature.com/childrens-stories/the-gingerbread-man"
+        },
+        {
+            "title": "The Little Thief in the Pantry",
+            "link": "https://americanliterature.com/author/anonymous/short-story/the-little-thief-in-the-pantry"
+        },
+        {
+            "title": "The Ugly Duckling",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-ugly-duckling"
+        },
+        {
+            "title": "Thumbelina",
+            "link": "https://americanliterature.com/childrens-stories/thumbelina"
+        },
+        {
+            "title": "The Bremen Town Musicians",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/fairy-tale/the-bremen-town-musicians"
+        },
+        {
+            "title": "The Grasshopper and the Ant",
+            "link": "https://americanliterature.com/author/aesop/short-story/the-ant-and-the-grasshopper"
+        },
+        {
+            "title": "The Reluctant Dragon",
+            "link": "https://americanliterature.com/author/kenneth-grahame/short-story/the-reluctant-dragon"
+        },
+        {
+            "title": "The Emperor's New Clothes",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-emperors-new-clothes"
+        },
+        {
+            "title": "The Princess and the Pea",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-princess-and-the-pea"
+        },
+        {
+            "title": "Rapunzel",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/fairy-tale/rapunzel"
+        },
+        {
+            "title": "The Little Old Woman Who Lived in a Shoe",
+            "link": "https://americanliterature.com/author/joseph-martin-kronheim/short-story/the-little-old-woman-who-lived-in-a-shoe"
+        },
+        {
+            "title": "Five Little Pigs",
+            "link": "https://americanliterature.com/author/joseph-martin-kronheim/short-story/five-little-pigs"
+        },
+        {
+            "title": "Old Mother Goose & Her Son Jack",
+            "link": "https://americanliterature.com/author/joseph-martin-kronheim/short-story/old-mother-goose-and-her-son-jack"
+        },
+        {
+            "title": "Hansel and Gretel",
+            "link": "https://americanliterature.com/childrens-stories/hansel-and-gretel"
+        },
+        {
+            "title": "The Little Mermaid",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-mermaid"
+        },
+        {
+            "title": "The Snow Image",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/the-snow-image-a-childish-miracle"
+        },
+        {
+            "title": "Father Frost",
+            "link": "https://americanliterature.com/childrens-stories/father-frost"
+        },
+        {
+            "title": "The Snow Queen",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-snow-queen"
+        },
+        {
+            "title": "How the Moon Became Beautiful",
+            "link": "https://americanliterature.com/author/anonymous/short-story/how-the-moon-became-beautiful"
+        },
+        {
+            "title": "The Paradise of Children",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/the-paradise-of-children"
+        },
+        {
+            "title": "The Little Match Girl",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl"
+        },
+        {
+            "title": "Cousin Tribulation's Story",
+            "link": "https://americanliterature.com/author/louisa-may-alcott/short-story/cousin-tribulations-story"
+        },
+        {
+            "title": "Huckleberry",
+            "link": "https://americanliterature.com/author/frank-stockton/fairy-tale/huckleberry"
+        },
+        {
+            "title": "The Zigzag Railroad",
+            "link": "https://americanliterature.com/author/carl-sandburg/short-story/how-gimme-the-ax-found-out-about-the-zigzag-railroad"
+        },
+        {
+            "title": "The Celebrated Jumping Frog",
+            "link": "https://americanliterature.com/author/mark-twain/short-story/the-celebrated-jumping-frog-of-calaveras-county"
+        },
+        {
+            "title": "The Magic Pitcher",
+            "link": "https://americanliterature.com/author/nancy-bell/fairy-tale/the-magic-pitcher"
+        },
+        {
+            "title": "Just So Stories",
+            "link": "https://americanliterature.com/author/rudyard-kipling/book/just-so-stories/summary"
+        },
+        {
+            "title": "The Tale of Johnny Town-Mouse",
+            "link": "https://americanliterature.com/author/beatrix-potter/short-story/the-tale-of-johnny-town-mouse"
+        },
+        {
+            "title": "Goldilocks and the Three Bears",
+            "link": "https://americanliterature.com/childrens-stories/goldilocks-and-the-three-bears"
+        },
+        {
+            "title": "Little Girl Afraid of a Dog",
+            "link": "https://americanliterature.com/author/mary-e-wilkins-freeman/short-story/little-girl-afraid-of-a-dog"
+        },
+        {
+            "title": "The Little Red Hen",
+            "link": "https://americanliterature.com/childrens-stories/the-little-red-hen"
+        },
+        {
+            "title": "Little Bo-Peep",
+            "link": "https://americanliterature.com/author/joseph-martin-kronheim/short-story/little-bo-peep"
+        },
+        {
+            "title": "The Wolf & Seven Little Kids",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/fairy-tale/the-wolf-and-the-seven-little-kids"
+        },
+        {
+            "title": "The Three Billy-Goats Gruff",
+            "link": "https://americanliterature.com/childrens-stories/the-three-billy-goats-gruff"
+        },
+        {
+            "title": "The Two Sisters",
+            "link": "https://americanliterature.com/childrens-stories/the-two-sisters"
+        },
+        {
+            "title": "A Little Tiny Thing",
+            "link": "https://americanliterature.com/author/anonymous/short-story/a-little-tiny-thing"
+        },
+        {
+            "title": "The Cunning Little Tailor",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/short-story/the-cunning-little-tailor"
+        },
+        {
+            "title": "Androclus and the Lion",
+            "link": "https://americanliterature.com/author/james-baldwin/short-story/androclus-and-the-lion"
+        },
+        {
+            "title": "Night Moth With Crooked Feeler",
+            "link": "https://americanliterature.com/author/clara-dillingham-pierson/short-story/the-night-moth-with-a-crooked-feeler"
+        },
+        {
+            "title": "Ali Baba and the Forty Thieves",
+            "link": "https://americanliterature.com/author/arabian-nights/short-story/ali-baba-and-the-forty-thieves"
+        },
+        {
+            "title": "East of the Sun & West of the Moon",
+            "link": "https://americanliterature.com/author/peter-christen-asbjornsen/fairy-tale/east-of-the-sun-and-west-of-the-moon"
+        },
+        {
+            "title": "Bruce and the Spider",
+            "link": "https://americanliterature.com/author/james-baldwin/short-story/bruce-and-the-spider"
+        },
+        {
+            "title": "How Jack Sought His Fortune",
+            "link": "https://americanliterature.com/childrens-stories/how-jack-went-out-to-seek-his-fortune"
+        },
+        {
+            "title": "The Adventures of Aladdin",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/short-story/the-adventures-of-aladdin"
+        },
+        {
+            "title": "The Sky is Falling!",
+            "link": "https://americanliterature.com/childrens-stories/henny-penny-the-sky-is-falling"
+        },
+        {
+            "title": "The Fisherman and his Wife",
+            "link": "https://americanliterature.com/childrens-stories/the-fisherman-and-his-wife"
+        },
+        {
+            "title": "Sleeping Beauty (Briar-Rose)",
+            "link": "https://americanliterature.com/author/the-brothers-grimm/fairy-tale/briar-rose"
+        },
+        {
+            "title": "The Forest Bride",
+            "link": "https://americanliterature.com/author/parker-fillmore/fairy-tale/the-forest-bride"
+        },
+        {
+            "title": "The Selfish Giant",
+            "link": "https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant"
+        },
+        {
+            "title": "The Happy Prince",
+            "link": "https://americanliterature.com/author/oscar-wilde/short-story/the-happy-prince"
+        },
+        {
+            "title": "The Blind Men and the Elephant",
+            "link": "https://americanliterature.com/author/anonymous/short-story/the-blind-men-and-the-elephant"
+        },
+        {
+            "title": "The Wise Monkey & the Boar",
+            "link": "https://americanliterature.com/childrens-stories/the-sagacious-monkey-and-the-boar"
+        },
+        {
+            "title": "The Farmer and the Badger",
+            "link": "https://americanliterature.com/childrens-stories/the-farmer-and-the-badger"
+        },
+        {
+            "title": "Mother Bear's Call",
+            "link": "https://americanliterature.com/author/harriet-prescott-spofford/short-story/mother-bears-call"
+        },
+        {
+            "title": "The Last Dream of Old Oak",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-last-dream-of-old-oak"
+        },
+        {
+            "title": "Soup on a Sausage Peg",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/soup-on-a-sausage-peg"
+        },
+        {
+            "title": "Fun on the Ice",
+            "link": "https://americanliterature.com/author/edward-stratemeyer/short-story/the-rover-boys-fun-on-the-ice"
+        },
+        {
+            "title": "How They Ran Away",
+            "link": "https://americanliterature.com/author/louisa-may-alcott/short-story/how-they-ran-away"
+        },
+        {
+            "title": "The Golden Touch",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/the-golden-touch"
+        },
+        {
+            "title": "Pegasus, The Winged Horse",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/pegasus-the-winged-horse"
+        },
+        {
+            "title": "Theseus Slays the Minotaur",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/how-theseus-slays-the-minotaur"
+        },
+        {
+            "title": "The Great Stone Face",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/the-great-stone-face"
+        },
+        {
+            "title": "The Golden Windows",
+            "link": "https://americanliterature.com/author/laura-e-richards/short-story/the-golden-windows"
+        },
+        {
+            "title": "The Dragon's Teeth",
+            "link": "https://americanliterature.com/author/nathaniel-hawthorne/short-story/the-dragons-teeth"
+        },
+        {
+            "title": "The Coming of the King",
+            "link": "https://americanliterature.com/author/laura-e-richards/short-story/the-coming-of-the-king"
+        },
+        {
+            "title": "The Great Feast",
+            "link": "https://americanliterature.com/author/laura-e-richards/short-story/the-great-feast"
+        },
+        {
+            "title": "The Marsh King's Daughter",
+            "link": "https://americanliterature.com/author/hans-christian-andersen/short-story/the-marsh-kings-daughter"
+        },
+        {
+            "title": "The Sea-Maiden",
+            "link": "https://americanliterature.com/author/joseph-jacobs/fairy-tale/the-sea-maiden"
+        },
+        {
+            "title": "The Story of Little Boy Blue",
+            "link": "https://americanliterature.com/author/l-frank-baum/short-story/the-story-of-little-boy-blue"
+        },
+        {
+            "title": "Little Benjamin",
+            "link": "https://americanliterature.com/author/laura-e-richards/short-story/little-benjamin"
+        },
+        {
+            "title": "Puss in Boots",
+            "link": "https://americanliterature.com/author/charles-perrault/fairy-tale/puss-in-boots"
+        },
+        {
+            "title": "Goody Two Shoes",
+            "link": "https://americanliterature.com/author/anonymous/short-story/goody-two-shoes"
+        },
+        {
+            "title": "Paul Bunyan & the Big Blue Ox",
+            "link": "https://americanliterature.com/author/wb-laughead/short-story/paul-bunyan"
+        },
+        {
+            "title": "Fun Halloween Stories",
+            "link": "https://americanliterature.com/halloween-stories-for-children/"
+        },
+        {
+            "title": "The Pumpkin Glory",
+            "link": "https://americanliterature.com/author/william-dean-howells/short-story/the-pumpkin-glory"
+        },
+        {
+            "title": "Thankful",
+            "link": "https://americanliterature.com/author/mary-e-wilkins-freeman/short-story/thankful"
+        },
+        {
+            "title": "Christmas Stories",
+            "link": "https://americanliterature.com/christmas-stories-for-children"
+        },
+        {
+            "title": "Twas The Night Before Christmas",
+            "link": "https://americanliterature.com/childrens-stories/twas-the-night-before-christmas"
+        },
+        {
+            "title": "Yummy Stories",
+            "link": "https://americanliterature.com/foodie-stories#foodie-stories-for-kids"
+        },
+        {
+            "title": "Share",
+            "link": "https://www.facebook.com/sharer.php?u=https%3A//americanliterature.com/short-stories-for-children/&utm_source=website&utm_medium=facebook&utm_campaign=social-share"
+        },
+        {
+            "title": "Tweet",
+            "link": "https://x.com/intent/tweet?text=I%27m%20reading%3A%20https%3A//americanliterature.com/short-stories-for-children/&utm_source=website&utm_medium=x&utm_campaign=social-share"
+        },
+        {
+            "title": "Save",
+            "link": "https://pinterest.com/pin/create/button/?url=https%3A//americanliterature.com/short-stories-for-children/&description=Check%20this%20out%21"
+        },
+        {
+            "title": "Share",
+            "link": "https://wa.me/?text=Check%20this%20out%3A%20https%3A//americanliterature.com/short-stories-for-children/&utm_source=website&utm_medium=whatsapp&utm_campaign=social-share"
+        },
+        {
+            "title": "Email",
+            "link": "mailto:?subject=Thought%20you%20might%20like%20this&body=Check%20out%20this%20page%3A%20https%3A//americanliterature.com/short-stories-for-children/&utm_source=website&utm_medium=email&utm_campaign=social-share"
+        }
+    ],
+    "https://www.bachpanglobal.com/blog/best-short-moral-stories-for-kids/": [
+        {
+            "title": "April 22, 2024",
+            "link": "https://www.bachpanglobal.com/blog/best-short-moral-stories-for-kids/"
+        },
+        {
+            "title": "Leave a comment",
+            "link": "https://www.bachpanglobal.com/blog/best-short-moral-stories-for-kids/#respond"
+        },
+        {
+            "title": "Storytelling",
+            "link": "https://www.bachpanglobal.com/blog/benefits-storytelling-children/"
+        },
+        {
+            "title": "Moral Stories for Kids",
+            "link": "https://www.bachpanglobal.com/blog/tag/moral-stories-for-kids/"
+        },
+        {
+            "title": "Short Moral Stories for Kids",
+            "link": "https://www.bachpanglobal.com/blog/tag/short-moral-stories-for-kids/"
+        },
+        {
+            "title": "Short Stories for Kids",
+            "link": "https://www.bachpanglobal.com/blog/tag/short-stories-for-kids/"
+        },
+        {
+            "title": "Short Story in English",
+            "link": "https://www.bachpanglobal.com/blog/tag/short-story-in-english/"
+        },
+        {
+            "title": "Short Story with Moral",
+            "link": "https://www.bachpanglobal.com/blog/tag/short-story-with-moral/"
+        }
+    ],
+    "https://www.shortkidstories.com/": [
+        {
+            "title": "Home",
+            "link": "https://www.shortkidstories.com/"
+        },
+        {
+            "title": "GET STORIES!",
+            "link": "https://www.shortkidstories.com/story"
+        },
+        {
+            "title": "Authors A-Z",
+            "link": "https://www.shortkidstories.com/authors/"
+        },
+        {
+            "title": "Author Submissions",
+            "link": "https://www.shortkidstories.com/author-submissions/"
+        },
+        {
+            "title": "Submission Guide",
+            "link": "https://www.shortkidstories.com/submission-guide/"
+        },
+        {
+            "title": "Illustrator Submissions",
+            "link": "https://www.shortkidstories.com/illustrators/"
+        },
+        {
+            "title": "Jeremy Norton",
+            "link": "https://www.shortkidstories.com/jeremy-norton/"
+        },
+        {
+            "title": "Aswin Amarnath",
+            "link": "https://www.shortkidstories.com/aswin-amarnath/"
+        },
+        {
+            "title": "Matt Moriarty",
+            "link": "https://www.shortkidstories.com/matt-moriarty/"
+        },
+        {
+            "title": "Brenda Higgins",
+            "link": "https://www.shortkidstories.com/brenda-higgins/"
+        },
+        {
+            "title": "Rebekah Phillips",
+            "link": "https://www.shortkidstories.com/rebekah-phillips/"
+        },
+        {
+            "title": "Claire Apricot",
+            "link": "https://www.shortkidstories.com/claire-apricot/"
+        },
+        {
+            "title": "Ghazal Qadri",
+            "link": "https://www.shortkidstories.com/ghazal-qadri/"
+        },
+        {
+            "title": "Luke (Lucjan) Lawnicki",
+            "link": "https://www.shortkidstories.com/luke-lucjan-lawnicki/"
+        },
+        {
+            "title": "Alina Jaclyn Piven",
+            "link": "https://www.shortkidstories.com/alina-jaclyn-piven/"
+        },
+        {
+            "title": "Narrators",
+            "link": "https://www.shortkidstories.com/narrators/"
+        },
+        {
+            "title": "All Narrators",
+            "link": "https://www.shortkidstories.com/narrators/"
+        },
+        {
+            "title": "Sharon Blumberg",
+            "link": "https://www.shortkidstories.com/narrators/sharon-blumberg/"
+        },
+        {
+            "title": "Narrated Stories",
+            "link": "https://www.shortkidstories.com/story/?story_category=audio"
+        },
+        {
+            "title": "Weekly Newsletter",
+            "link": "https://www.shortkidstories.com/weekly-newsletter/"
+        },
+        {
+            "title": "Blog",
+            "link": "https://www.shortkidstories.com/category/blog/"
+        },
+        {
+            "title": "Contact",
+            "link": "https://www.shortkidstories.com/contact/"
+        },
+        {
+            "title": "About",
+            "link": "https://www.shortkidstories.com/about/"
+        },
+        {
+            "title": "Short Kid Stories",
+            "link": "https://www.shortkidstories.com/"
+        },
+        {
+            "title": "FEATURED STORIES",
+            "link": "http://www.shortkidstories.com/story/?featured=featured"
+        },
+        {
+            "title": "The Fisherman and his WifeA fisherman saves the life of a fish and is rewarded when his wife suggests to ask for a pretty cottage. Unfortunately she keeps wanting more and more and is never satisfied.",
+            "link": "https://www.shortkidstories.com/story/the-fisherman-and-his-wife/"
+        },
+        {
+            "title": "Brothers Grimm",
+            "link": "https://www.shortkidstories.com/authors/brothers-grimm/"
+        },
+        {
+            "title": "6 to 8",
+            "link": "https://www.shortkidstories.com/age-range/6-8/"
+        },
+        {
+            "title": "9 to12",
+            "link": "https://www.shortkidstories.com/age-range/9-to-12/"
+        },
+        {
+            "title": "Classic",
+            "link": "https://www.shortkidstories.com/story_category/classic/"
+        },
+        {
+            "title": "Fairy Tale",
+            "link": "https://www.shortkidstories.com/story_category/fairy-tale/"
+        },
+        {
+            "title": "German",
+            "link": "https://www.shortkidstories.com/story_category/german/"
+        },
+        {
+            "title": "Illustrated",
+            "link": "https://www.shortkidstories.com/story_category/illustrated/"
+        },
+        {
+            "title": "Fish",
+            "link": "https://www.shortkidstories.com/animal/fish/"
+        },
+        {
+            "title": "Flounder",
+            "link": "https://www.shortkidstories.com/animal/flounder/"
+        },
+        {
+            "title": "10 - 15 mins",
+            "link": "https://www.shortkidstories.com/reading-time/10-15-mins/"
+        },
+        {
+            "title": "15 - 20 mins",
+            "link": "https://www.shortkidstories.com/reading-time/15-20-mins/"
+        },
+        {
+            "title": "CinderellaCinderella gets to go to the ball thanks to her kind fairy godmother.",
+            "link": "https://www.shortkidstories.com/story/cinderella-2/"
+        },
+        {
+            "title": "Charles Perrault",
+            "link": "https://www.shortkidstories.com/authors/charles-perrault/"
+        },
+        {
+            "title": "3 to 5",
+            "link": "https://www.shortkidstories.com/age-range/3-to-5/"
+        },
+        {
+            "title": "6 to 8",
+            "link": "https://www.shortkidstories.com/age-range/6-8/"
+        },
+        {
+            "title": "9 to12",
+            "link": "https://www.shortkidstories.com/age-range/9-to-12/"
+        },
+        {
+            "title": "Classic",
+            "link": "https://www.shortkidstories.com/story_category/classic/"
+        },
+        {
+            "title": "Fairy Tale",
+            "link": "https://www.shortkidstories.com/story_category/fairy-tale/"
+        },
+        {
+            "title": "Illustrated",
+            "link": "https://www.shortkidstories.com/story_category/illustrated/"
+        },
+        {
+            "title": "05 - 10 mins",
+            "link": "https://www.shortkidstories.com/reading-time/5-10-mins/"
+        },
+        {
+            "title": "The Emperor’s New ClothesTwo swindlers pretend to weave the vain emperor new clothes, but claim it’s invisible to stupid people. Will anyone be brave enough to say there’s nothing there? Includes audio narration.",
+            "link": "https://www.shortkidstories.com/story/the-emperors-new-clothes/"
+        },
+        {
+            "title": "Hans Christian Andersen",
+            "link": "https://www.shortkidstories.com/authors/hans-christian-andersen/"
+        },
+        {
+            "title": "Sharon Blumberg",
+            "link": "https://www.shortkidstories.com/narrators/sharon-blumberg/"
+        },
+        {
+            "title": "3 to 5",
+            "link": "https://www.shortkidstories.com/age-range/3-to-5/"
+        },
+        {
+            "title": "6 to 8",
+            "link": "https://www.shortkidstories.com/age-range/6-8/"
+        },
+        {
+            "title": "9 to12",
+            "link": "https://www.shortkidstories.com/age-range/9-to-12/"
+        },
+        {
+            "title": "Audio",
+            "link": "https://www.shortkidstories.com/story_category/audio/"
+        },
+        {
+            "title": "Classic",
+            "link": "https://www.shortkidstories.com/story_category/classic/"
+        },
+        {
+            "title": "Fairy Tale",
+            "link": "https://www.shortkidstories.com/story_category/fairy-tale/"
+        },
+        {
+            "title": "Funny",
+            "link": "https://www.shortkidstories.com/story_category/funny/"
+        },
+        {
+            "title": "Instructional",
+            "link": "https://www.shortkidstories.com/story_category/instructional/"
+        },
+        {
+            "title": "05 - 10 mins",
+            "link": "https://www.shortkidstories.com/reading-time/5-10-mins/"
+        },
+        {
+            "title": "Sleeping BeautyA mean fairy casts a spell on a young girl. Can she avoid pricking herself on a spindle until she is sixteen? Includes an audio narration by Sharon Blumberg.",
+            "link": "https://www.shortkidstories.com/story/sleeping-beauty/"
+        },
+        {
+            "title": "Charles Perrault",
+            "link": "https://www.shortkidstories.com/authors/charles-perrault/"
+        },
+        {
+            "title": "Sharon Blumberg",
+            "link": "https://www.shortkidstories.com/narrators/sharon-blumberg/"
+        },
+        {
+            "title": "3 to 5",
+            "link": "https://www.shortkidstories.com/age-range/3-to-5/"
+        },
+        {
+            "title": "6 to 8",
+            "link": "https://www.shortkidstories.com/age-range/6-8/"
+        },
+        {
+            "title": "Audio",
+            "link": "https://www.shortkidstories.com/story_category/audio/"
+        },
+        {
+            "title": "Classic",
+            "link": "https://www.shortkidstories.com/story_category/classic/"
+        },
+        {
+            "title": "Fairy Tale",
+            "link": "https://www.shortkidstories.com/story_category/fairy-tale/"
+        },
+        {
+            "title": "Illustrated",
+            "link": "https://www.shortkidstories.com/story_category/illustrated/"
+        },
+        {
+            "title": "05 - 10 mins",
+            "link": "https://www.shortkidstories.com/reading-time/5-10-mins/"
+        },
+        {
+            "title": "See All Stories",
+            "link": "https://www.shortkidstories.com/story"
+        },
+        {
+            "title": "See All Authors",
+            "link": "https://www.shortkidstories.com/authors"
+        },
+        {
+            "title": "Audio Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/audio/"
+        },
+        {
+            "title": "Fairy Tales for Kids",
+            "link": "http://www.shortkidstories.com/story_category/fairy-tale/"
+        },
+        {
+            "title": "Illustrated Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/illustrated/"
+        },
+        {
+            "title": "Original Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/original/"
+        },
+        {
+            "title": "Funny Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/funny/"
+        },
+        {
+            "title": "Poems for Kids",
+            "link": "http://www.shortkidstories.com/story_category/poem/"
+        },
+        {
+            "title": "Nursery Rhymes for Kids",
+            "link": "http://www.shortkidstories.com/story_category/nursery-rhyme/"
+        },
+        {
+            "title": "Celtic Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/celtic/"
+        },
+        {
+            "title": "Classic Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/classic/"
+        },
+        {
+            "title": "Modern Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/modern/"
+        },
+        {
+            "title": "Video Stories for Kids",
+            "link": "http://www.shortkidstories.com/story_category/video/"
+        },
+        {
+            "title": "Beatrix Potter",
+            "link": "http://www.shortkidstories.com/authors/beatrix-potter/"
+        },
+        {
+            "title": "Brothers Grimm",
+            "link": "http://www.shortkidstories.com/authors/brothers-grimm/"
+        },
+        {
+            "title": "Hans Christian Andersen",
+            "link": "http://www.shortkidstories.com/authors/hans-christian-andersen/"
+        },
+        {
+            "title": "Johnny Gruelle",
+            "link": "http://www.shortkidstories.com/authors/johnny-gruelle/"
+        },
+        {
+            "title": "Oscar Wilde",
+            "link": "http://www.shortkidstories.com/authors/oscar-wilde/"
+        },
+        {
+            "title": "Aesop’s Tales",
+            "link": "http://www.shortkidstories.com/authors/aesop/"
+        },
+        {
+            "title": "Charles Perrault",
+            "link": "http://www.shortkidstories.com/authors/charles-perrault/"
+        },
+        {
+            "title": "Age 0-2",
+            "link": "http://www.shortkidstories.com/age-range/0-to-2/"
+        },
+        {
+            "title": "Age 3-5",
+            "link": "http://www.shortkidstories.com/age-range/3-to-5/"
+        },
+        {
+            "title": "Age 6-8",
+            "link": "http://www.shortkidstories.com/age-range/6-8/"
+        },
+        {
+            "title": "Age 9-12",
+            "link": "http://www.shortkidstories.com/age-range/9-to-12/"
+        },
+        {
+            "title": "Teen",
+            "link": "http://www.shortkidstories.com/age-range/teen/"
+        },
+        {
+            "title": "1-5 mins",
+            "link": "http://www.shortkidstories.com/reading-time/1-5-mins/"
+        },
+        {
+            "title": "5-10 mins",
+            "link": "http://www.shortkidstories.com/reading-time/5-10-mins/"
+        },
+        {
+            "title": "10-15 mins",
+            "link": "http://www.shortkidstories.com/reading-time/10-15-mins/"
+        },
+        {
+            "title": "15-20 mins",
+            "link": "http://www.shortkidstories.com/reading-time/15-20-mins/"
+        },
+        {
+            "title": "Over 20 mins",
+            "link": "http://www.shortkidstories.com/reading-time/over-20-mins"
+        },
+        {
+            "title": "Facebook",
+            "link": "https://www.facebook.com/sharer.php?t=Short Stories for Kids&u=https://www.shortkidstories.com/"
+        },
+        {
+            "title": "Twitter",
+            "link": "https://twitter.com/intent/tweet?text=Short Stories for Kids&url=https://www.shortkidstories.com/&via="
+        },
+        {
+            "title": "Pinterest",
+            "link": "https://pinterest.com/pin/create/button/?description=Short Stories for Kids&media=&url=https://www.shortkidstories.com/"
+        },
+        {
+            "title": "Email",
+            "link": "mailto:?subject=Short Stories for Kids&body=https://www.shortkidstories.com/"
+        },
+        {
+            "title": "What's this?",
+            "link": "http://www.shortkidstories.com/weekly-newsletter/"
+        },
+        {
+            "title": "How Parents Can Help With Reading Comprehension At Home",
+            "link": "https://www.shortkidstories.com/how-parents-can-help-with-reading-comprehension-at-home/"
+        },
+        {
+            "title": "Dulce Rodrigues publishes new book",
+            "link": "https://www.shortkidstories.com/dulce-rodrigues-publishes-new-book/"
+        },
+        {
+            "title": "Analysis by Christina F. Kennison of The Tale of Mrs. Tittlemouse by Beatrix Potter",
+            "link": "https://www.shortkidstories.com/analysis-of-mrs-tittlemouse/"
+        },
+        {
+            "title": "Another Short Kid Stories Author Published!",
+            "link": "https://www.shortkidstories.com/another-short-kid-stories-author-published/"
+        },
+        {
+            "title": "Apologies for site disruption",
+            "link": "https://www.shortkidstories.com/apologies-for-site-disruption/"
+        },
+        {
+            "title": "Aesops Fables",
+            "link": "https://www.shortkidstories.com/story/aesops-fables/"
+        },
+        {
+            "title": "Puss In Boots",
+            "link": "https://www.shortkidstories.com/story/puss-boots/"
+        },
+        {
+            "title": "Rumpelstiltskin",
+            "link": "https://www.shortkidstories.com/story/rumpelstiltskin/"
+        },
+        {
+            "title": "The Emperor’s New Clothes",
+            "link": "https://www.shortkidstories.com/story/the-emperors-new-clothes/"
+        },
+        {
+            "title": "The Unicorn and His Friends",
+            "link": "https://www.shortkidstories.com/story/the-unicorn-and-his-friends/"
+        },
+        {
+            "title": "The Fisherman and his Wife",
+            "link": "https://www.shortkidstories.com/story/the-fisherman-and-his-wife/"
+        },
+        {
+            "title": "The Princess and the Pea",
+            "link": "https://www.shortkidstories.com/story/princess-pea/"
+        },
+        {
+            "title": "The Tale of Benjamin Bunny",
+            "link": "https://www.shortkidstories.com/story/tale-benjamin-bunny/"
+        },
+        {
+            "title": "Cinderella",
+            "link": "https://www.shortkidstories.com/story/cinderella-2/"
+        },
+        {
+            "title": "Franklin the Frog",
+            "link": "https://www.shortkidstories.com/story/franklin-frog/"
+        },
+        {
+            "title": "The Legend of the Black Sea",
+            "link": "https://www.shortkidstories.com/story/legend-black-sea/"
+        },
+        {
+            "title": "The Four Clever Sheep",
+            "link": "https://www.shortkidstories.com/story/the-four-clever-sheep/"
+        }
+    ],
+    "https://www.reddit.com/r/suggestmeabook/comments/1dkwjlo/can_anyone_recommend_some_good_short_childrens/": [
+        {
+            "title": "Best short story books for kids",
+            "link": "https://www.reddit.com/answers/642c6e54-e2e9-4cff-a118-9811df86aea1/?q=Best%20short%20story%20books%20for%20kids&source=PDP"
+        },
+        {
+            "title": "Short children's stories in English",
+            "link": "https://www.reddit.com/answers/a1f6ccc9-5698-488e-9ebe-d35a279b679e/?q=Short%20children's%20stories%20in%20English&source=PDP"
+        },
+        {
+            "title": "Short stories for boys",
+            "link": "https://www.reddit.com/answers/edc73458-5db5-4eaa-9332-f29e0c3af27e/?q=Short%20stories%20for%20boys&source=PDP"
+        },
+        {
+            "title": "Grade 4 short story book suggestions",
+            "link": "https://www.reddit.com/answers/74cd91fb-9ac7-4d09-9321-3237dd572870/?q=Grade%204%20short%20story%20book%20suggestions&source=PDP"
+        }
+    ],
+    "https://www.readthetale.com/popular-bedtime-stories": [
+        {
+            "title": "Home",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids"
+        },
+        {
+            "title": "Popular Stories",
+            "link": "https://www.readthetale.com/popular-bedtime-stories"
+        },
+        {
+            "title": "Stories by Age",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age"
+        },
+        {
+            "title": "Lullabies",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/lullabies"
+        },
+        {
+            "title": "3 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/3-year-old"
+        },
+        {
+            "title": "4 year old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/4-year-old"
+        },
+        {
+            "title": "5 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/5-year-old"
+        },
+        {
+            "title": "6 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/6-year-old"
+        },
+        {
+            "title": "7 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/7-year-old"
+        },
+        {
+            "title": "8 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/8-year-old"
+        },
+        {
+            "title": "9 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/9-year-old"
+        },
+        {
+            "title": "Kids Poems",
+            "link": "https://www.readthetale.com/poems-for-kids"
+        },
+        {
+            "title": "Series",
+            "link": "https://www.readthetale.com/series"
+        },
+        {
+            "title": "Wonderschool Wizards",
+            "link": "https://www.readthetale.com/series/wonderschool-wizards"
+        },
+        {
+            "title": "Bubble Boy",
+            "link": "https://www.readthetale.com/series/bubble-boy"
+        },
+        {
+            "title": "Bumblebee",
+            "link": "https://www.readthetale.com/series/bumblebee"
+        },
+        {
+            "title": "Dinosaur Camp",
+            "link": "https://www.readthetale.com/series/dinosaur-camp"
+        },
+        {
+            "title": "Travel Through History",
+            "link": "https://www.readthetale.com/series/travel-through-history"
+        },
+        {
+            "title": "Dragon Dreams",
+            "link": "https://www.readthetale.com/series/dragon-dreams"
+        },
+        {
+            "title": "Fun with Emily",
+            "link": "https://www.readthetale.com/series/fun-with-emily"
+        },
+        {
+            "title": "Space Explorers",
+            "link": "https://www.readthetale.com/series/space-explorers"
+        },
+        {
+            "title": "T-Rex Danny",
+            "link": "https://www.readthetale.com/series/t-rex-danny"
+        },
+        {
+            "title": "Winnie-the-Pooh",
+            "link": "https://www.readthetale.com/series/winnie-the-pooh"
+        },
+        {
+            "title": "See All Series",
+            "link": "https://www.readthetale.com/series"
+        },
+        {
+            "title": "Holiday Stories",
+            "link": "https://www.readthetale.com/holiday-stories"
+        },
+        {
+            "title": "Christmas Stories",
+            "link": "https://www.readthetale.com/holiday-stories/christmas-stories-for-kids"
+        },
+        {
+            "title": "Halloween Stories",
+            "link": "https://www.readthetale.com/holiday-stories/halloween-stories"
+        },
+        {
+            "title": "Thanksgiving Stories",
+            "link": "https://www.readthetale.com/holiday-stories/thanksgiving-stories"
+        },
+        {
+            "title": "Easter Stories",
+            "link": "https://www.readthetale.com/holiday-stories/easter-stories-for-kids"
+        },
+        {
+            "title": "Valentine’s Day Stories",
+            "link": "https://www.readthetale.com/holiday-stories/valentines-day-stories"
+        },
+        {
+            "title": "Games",
+            "link": "https://www.readthetale.com/games"
+        },
+        {
+            "title": "Ugly Duckling",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids/ugly-duckling-challenge"
+        },
+        {
+            "title": "WordSearch",
+            "link": "https://www.readthetale.com/games/wordsearch"
+        },
+        {
+            "title": "Puzzle",
+            "link": "https://www.readthetale.com/games/puzzle"
+        },
+        {
+            "title": "Word Flower",
+            "link": "https://www.readthetale.com/games/word-flower"
+        },
+        {
+            "title": "Quiz",
+            "link": "https://www.readthetale.com/games/quiz"
+        },
+        {
+            "title": "CrossWord",
+            "link": "https://www.readthetale.com/games/crossword-for-kids"
+        },
+        {
+            "title": "Free Coloring Book",
+            "link": "https://www.readthetale.com/games/coloring-pictures"
+        },
+        {
+            "title": "For Parents",
+            "link": "https://www.readthetale.com/parenting-tips"
+        },
+        {
+            "title": "Behavior & Discipline",
+            "link": "https://www.readthetale.com/parenting-tips/behavior-discipline"
+        },
+        {
+            "title": "Learning & Development",
+            "link": "https://www.readthetale.com/parenting-tips/learning-development"
+        },
+        {
+            "title": "Health & Wellbeing",
+            "link": "https://www.readthetale.com/parenting-tips/health-wellbeing"
+        },
+        {
+            "title": "Parenting Challenges",
+            "link": "https://www.readthetale.com/parenting-tips/parenting-challenges"
+        },
+        {
+            "title": "Toggle website search",
+            "link": "https://www.readthetale.com/"
+        },
+        {
+            "title": "Cinderella Story",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/cinderella"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/cinderella"
+        },
+        {
+            "title": "Beauty and the Beast",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/beauty-and-the-beast"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/beauty-and-the-beast"
+        },
+        {
+            "title": "The Ugly Duckling",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-ugly-duckling"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-ugly-duckling"
+        },
+        {
+            "title": "Rapunzel Story",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/rapunzel"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/rapunzel"
+        },
+        {
+            "title": "The Lion King",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-lion-king"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-lion-king"
+        },
+        {
+            "title": "Thumbelina",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/thumbelina"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/thumbelina"
+        },
+        {
+            "title": "The School Bully",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-school-bully"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-school-bully"
+        },
+        {
+            "title": "The Magical School Bus",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-magical-school-bus"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-magical-school-bus"
+        },
+        {
+            "title": "Rapunzel for All Ages",
+            "link": "https://www.readthetale.com/rapunzel"
+        },
+        {
+            "title": "Little Red Riding Hood",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/little-red-riding-hood"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/little-red-riding-hood"
+        },
+        {
+            "title": "The Gingerbread Man",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-gingerbread-man"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-gingerbread-man"
+        },
+        {
+            "title": "The Little Mermaid",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-little-mermaid"
+        },
+        {
+            "title": "Read Here",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/the-little-mermaid"
+        },
+        {
+            "title": "More",
+            "link": "https://www.readthetale.com/popular-bedtime-stories/?_page=2"
+        },
+        {
+            "title": "Create Personalized Story Using AI",
+            "link": "https://www.readthetale.com/create-personalized-story/create-personalized-story-using-ai"
+        },
+        {
+            "title": "Create Personalized Poem Using AI",
+            "link": "https://www.readthetale.com/create-personalized-story/create-personalized-poem"
+        },
+        {
+            "title": "Ugly Duckling Challenge",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids/ugly-duckling-challenge"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids/ugly-duckling-challenge"
+        },
+        {
+            "title": "Videos",
+            "link": "https://www.readthetale.com/video"
+        },
+        {
+            "title": "Three Little Pigs Video",
+            "link": "https://www.readthetale.com/video/three-little-pigs-video"
+        },
+        {
+            "title": "Watch",
+            "link": "https://www.readthetale.com/video/three-little-pigs-video"
+        },
+        {
+            "title": "Videos",
+            "link": "https://www.readthetale.com/video"
+        },
+        {
+            "title": "The GingerBread Man Video",
+            "link": "https://www.readthetale.com/video/the-gingerbread-man-video"
+        },
+        {
+            "title": "Watch",
+            "link": "https://www.readthetale.com/video/the-gingerbread-man-video"
+        },
+        {
+            "title": "Videos",
+            "link": "https://www.readthetale.com/video"
+        },
+        {
+            "title": "Charlotte’s Web Video",
+            "link": "https://www.readthetale.com/video/charlottes-web-video"
+        },
+        {
+            "title": "Watch",
+            "link": "https://www.readthetale.com/video/charlottes-web-video"
+        },
+        {
+            "title": "About us",
+            "link": "https://www.readthetale.com/about-us"
+        },
+        {
+            "title": "Get Our App",
+            "link": "https://www.readthetale.com/download-our-app"
+        },
+        {
+            "title": "Contact us",
+            "link": "https://www.readthetale.com/about-us/contact-us"
+        },
+        {
+            "title": "Privacy Policy",
+            "link": "https://www.readthetale.com/about-us/privacy-policy"
+        },
+        {
+            "title": "Blog",
+            "link": "https://www.readthetale.com/blog"
+        },
+        {
+            "title": "Submit Your Story",
+            "link": "https://www.readthetale.com/create-personalized-story/submit-your-story"
+        },
+        {
+            "title": "Poems for Kids",
+            "link": "https://www.readthetale.com/poems-for-kids"
+        },
+        {
+            "title": "Create Personalized Story",
+            "link": "https://www.readthetale.com/create-personalized-story/create-personalized-story-using-ai"
+        },
+        {
+            "title": "Home",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids"
+        },
+        {
+            "title": "Popular Stories",
+            "link": "https://www.readthetale.com/popular-bedtime-stories"
+        },
+        {
+            "title": "Stories by Age",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age"
+        },
+        {
+            "title": "Lullabies",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/lullabies"
+        },
+        {
+            "title": "3 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/3-year-old"
+        },
+        {
+            "title": "4 year old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/4-year-old"
+        },
+        {
+            "title": "5 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/5-year-old"
+        },
+        {
+            "title": "6 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/6-year-old"
+        },
+        {
+            "title": "7 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/7-year-old"
+        },
+        {
+            "title": "8 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/8-year-old"
+        },
+        {
+            "title": "9 Year Old",
+            "link": "https://www.readthetale.com/bedtime-stories-by-age/9-year-old"
+        },
+        {
+            "title": "Kids Poems",
+            "link": "https://www.readthetale.com/poems-for-kids"
+        },
+        {
+            "title": "Series",
+            "link": "https://www.readthetale.com/series"
+        },
+        {
+            "title": "Wonderschool Wizards",
+            "link": "https://www.readthetale.com/series/wonderschool-wizards"
+        },
+        {
+            "title": "Bubble Boy",
+            "link": "https://www.readthetale.com/series/bubble-boy"
+        },
+        {
+            "title": "Bumblebee",
+            "link": "https://www.readthetale.com/series/bumblebee"
+        },
+        {
+            "title": "Dinosaur Camp",
+            "link": "https://www.readthetale.com/series/dinosaur-camp"
+        },
+        {
+            "title": "Travel Through History",
+            "link": "https://www.readthetale.com/series/travel-through-history"
+        },
+        {
+            "title": "Dragon Dreams",
+            "link": "https://www.readthetale.com/series/dragon-dreams"
+        },
+        {
+            "title": "Fun with Emily",
+            "link": "https://www.readthetale.com/series/fun-with-emily"
+        },
+        {
+            "title": "Space Explorers",
+            "link": "https://www.readthetale.com/series/space-explorers"
+        },
+        {
+            "title": "T-Rex Danny",
+            "link": "https://www.readthetale.com/series/t-rex-danny"
+        },
+        {
+            "title": "Winnie-the-Pooh",
+            "link": "https://www.readthetale.com/series/winnie-the-pooh"
+        },
+        {
+            "title": "See All Series",
+            "link": "https://www.readthetale.com/series"
+        },
+        {
+            "title": "Holiday Stories",
+            "link": "https://www.readthetale.com/holiday-stories"
+        },
+        {
+            "title": "Christmas Stories",
+            "link": "https://www.readthetale.com/holiday-stories/christmas-stories-for-kids"
+        },
+        {
+            "title": "Halloween Stories",
+            "link": "https://www.readthetale.com/holiday-stories/halloween-stories"
+        },
+        {
+            "title": "Thanksgiving Stories",
+            "link": "https://www.readthetale.com/holiday-stories/thanksgiving-stories"
+        },
+        {
+            "title": "Easter Stories",
+            "link": "https://www.readthetale.com/holiday-stories/easter-stories-for-kids"
+        },
+        {
+            "title": "Valentine’s Day Stories",
+            "link": "https://www.readthetale.com/holiday-stories/valentines-day-stories"
+        },
+        {
+            "title": "Games",
+            "link": "https://www.readthetale.com/games"
+        },
+        {
+            "title": "Ugly Duckling",
+            "link": "https://www.readthetale.com/bedtime-stories-for-kids/ugly-duckling-challenge"
+        },
+        {
+            "title": "WordSearch",
+            "link": "https://www.readthetale.com/games/wordsearch"
+        },
+        {
+            "title": "Puzzle",
+            "link": "https://www.readthetale.com/games/puzzle"
+        },
+        {
+            "title": "Word Flower",
+            "link": "https://www.readthetale.com/games/word-flower"
+        },
+        {
+            "title": "Quiz",
+            "link": "https://www.readthetale.com/games/quiz"
+        },
+        {
+            "title": "CrossWord",
+            "link": "https://www.readthetale.com/games/crossword-for-kids"
+        },
+        {
+            "title": "Free Coloring Book",
+            "link": "https://www.readthetale.com/games/coloring-pictures"
+        },
+        {
+            "title": "For Parents",
+            "link": "https://www.readthetale.com/parenting-tips"
+        },
+        {
+            "title": "Behavior & Discipline",
+            "link": "https://www.readthetale.com/parenting-tips/behavior-discipline"
+        },
+        {
+            "title": "Learning & Development",
+            "link": "https://www.readthetale.com/parenting-tips/learning-development"
+        },
+        {
+            "title": "Health & Wellbeing",
+            "link": "https://www.readthetale.com/parenting-tips/health-wellbeing"
+        },
+        {
+            "title": "Parenting Challenges",
+            "link": "https://www.readthetale.com/parenting-tips/parenting-challenges"
+        }
+    ],
+    "https://www.reddit.com/r/audiobooks/comments/orb91h/i_am_looking_for_some_amazing_short_stories_for/": [
+        {
+            "title": "Best short stories for kids aged 7-10",
+            "link": "https://www.reddit.com/answers/ec1e8580-2dcf-4760-979c-13cf4f8db231/?q=Best%20short%20stories%20for%20kids%20aged%207-10&source=PDP"
+        },
+        {
+            "title": "Good bedtime stories for kids",
+            "link": "https://www.reddit.com/answers/65d177b6-b928-4760-bd6a-b9a73997abd9/?q=Good%20bedtime%20stories%20for%20kids&source=PDP"
+        }
+    ],
+    "https://klay.co.in/blog/short-moral-stories-in-english-for-kids/": [
+        {
+            "title": "Share through Whatsapp",
+            "link": "whatsapp://send?text=https://klay.co.in/blog/short-moral-stories-in-english-for-kids/"
+        },
+        {
+            "title": "world of storytelling",
+            "link": "https://klay.co.in/blog/making-storytelling-exciting/"
+        }
+    ],
+    "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/": [
+        {
+            "title": "Show me how!",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Short Story Unit",
+            "link": "https://www.rethinkela.com/all-summer-in-a-day-short-story-unit/"
+        },
+        {
+            "title": "Short Story Unit on TpT",
+            "link": "https://www.teacherspayteachers.com/Product/All-Summer-In-A-Day-By-Ray-Bradbury-Short-Story-Literature-Unit-1988313"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Available in the Curated Short Stories Library",
+            "link": "https://www.rethinkela.com/curated-short-stories-library/"
+        },
+        {
+            "title": "Assessment Activity & Creative Writing Project",
+            "link": "https://www.rethinkela.com/the-gift-of-the-magi-short-story-close-reading-writing-activity/"
+        },
+        {
+            "title": "Assessment Activity & Creative Writing Project on TpT",
+            "link": "https://www.teacherspayteachers.com/Product/The-Gift-of-the-Magi-Short-Story-Close-Reading-Writing-Activity-3513620"
+        },
+        {
+            "title": "Assessment Activity & Writing Project on TpT",
+            "link": "https://www.teacherspayteachers.com/Product/The-Possibility-of-Evil-Short-Story-Close-Reading-Writing-Activity-3467645"
+        },
+        {
+            "title": "The Stone",
+            "link": "https://www.rethinkela.com/all-access-short-story-curated-resources-membership/"
+        },
+        {
+            "title": "2 B R 0 2 B",
+            "link": "https://www.rethinkela.com/all-access-short-story-curated-resources-membership/"
+        },
+        {
+            "title": "Learn more here",
+            "link": "https://www.rethinkela.com/all-access-short-story-curated-resources-membership/"
+        },
+        {
+            "title": "Short Story Lesson Plans",
+            "link": "https://www.rethinkela.com/tag/short-story-lesson-plans/"
+        },
+        {
+            "title": "Cancel reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#respond"
+        },
+        {
+            "title": "October 1, 2014 at 9:42 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1024"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1024#respond"
+        },
+        {
+            "title": "October 1, 2014 at 9:23 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1034"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1034#respond"
+        },
+        {
+            "title": "August 2, 2017 at 8:29 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14000"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14000#respond"
+        },
+        {
+            "title": "February 4, 2015 at 1:16 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1792"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1792#respond"
+        },
+        {
+            "title": "January 10, 2016 at 9:47 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5750"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5750#respond"
+        },
+        {
+            "title": "May 19, 2016 at 2:05 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6949"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6949#respond"
+        },
+        {
+            "title": "August 22, 2016 at 3:17 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7867"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7867#respond"
+        },
+        {
+            "title": "March 2, 2017 at 2:29 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11279"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11279#respond"
+        },
+        {
+            "title": "April 6, 2017 at 7:05 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13379"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13379#respond"
+        },
+        {
+            "title": "Sonakshi Sharma",
+            "link": "http://www.mrswatersenglish.com/2014/05/40-excellent-short-stories-for-middle-school/"
+        },
+        {
+            "title": "February 28, 2017 at 4:59 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11177"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11177#respond"
+        },
+        {
+            "title": "Full-Text Short Stories and More | Teachers Pondering",
+            "link": "http://teacherspondering.wordpress.com/2014/11/07/full-text-short-stories-and-more/"
+        },
+        {
+            "title": "November 10, 2014 at 8:03 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1258"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1258#respond"
+        },
+        {
+            "title": "November 10, 2014 at 11:03 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1259"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1259#respond"
+        },
+        {
+            "title": "February 11, 2015 at 11:15 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1845"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1845#respond"
+        },
+        {
+            "title": "February 13, 2015 at 9:04 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1858"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1858#respond"
+        },
+        {
+            "title": "January 6, 2016 at 6:47 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5707"
+        },
+        {
+            "title": "January 4, 2015 at 2:43 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1482"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1482#respond"
+        },
+        {
+            "title": "January 4, 2015 at 3:22 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1483"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1483#respond"
+        },
+        {
+            "title": "August 12, 2016 at 10:37 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7785"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7785#respond"
+        },
+        {
+            "title": "February 1, 2015 at 8:10 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1762"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1762#respond"
+        },
+        {
+            "title": "February 1, 2015 at 9:46 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1763"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1763#respond"
+        },
+        {
+            "title": "February 2, 2015 at 7:41 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1766"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1766#respond"
+        },
+        {
+            "title": "September 17, 2015 at 2:15 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4296"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4296#respond"
+        },
+        {
+            "title": "September 18, 2015 at 6:27 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4330"
+        },
+        {
+            "title": "February 4, 2015 at 1:18 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1784"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1784#respond"
+        },
+        {
+            "title": "February 4, 2015 at 9:58 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1790"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1790#respond"
+        },
+        {
+            "title": "February 9, 2015 at 7:54 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1822"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1822#respond"
+        },
+        {
+            "title": "February 13, 2015 at 9:26 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1859"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1859#respond"
+        },
+        {
+            "title": "February 25, 2015 at 10:13 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1970"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1970#respond"
+        },
+        {
+            "title": "February 25, 2015 at 10:14 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1971"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1971#respond"
+        },
+        {
+            "title": "February 26, 2015 at 10:00 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-1979"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=1979#respond"
+        },
+        {
+            "title": "March 23, 2015 at 10:20 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2280"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2280#respond"
+        },
+        {
+            "title": "March 23, 2015 at 10:46 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2281"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2281#respond"
+        },
+        {
+            "title": "April 11, 2015 at 10:23 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2485"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2485#respond"
+        },
+        {
+            "title": "April 11, 2015 at 11:13 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2486"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2486#respond"
+        },
+        {
+            "title": "May 11, 2015 at 4:49 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2766"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2766#respond"
+        },
+        {
+            "title": "February 8, 2019 at 11:03 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14413"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14413#respond"
+        },
+        {
+            "title": "March 31, 2015 at 11:50 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2361"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2361#respond"
+        },
+        {
+            "title": "March 31, 2015 at 12:19 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2362"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2362#respond"
+        },
+        {
+            "title": "40 Excellent Short Stories For Middle School | S.O.A.R. Tutoring & Advocacy",
+            "link": "http://mysoartutoring.com/2015/03/31/40-excellent-short-stories-for-middle-school/"
+        },
+        {
+            "title": "May 7, 2015 at 4:08 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2706"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2706#respond"
+        },
+        {
+            "title": "May 7, 2015 at 5:10 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2709"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2709#respond"
+        },
+        {
+            "title": "May 11, 2015 at 3:30 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2764"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2764#respond"
+        },
+        {
+            "title": "May 11, 2015 at 3:47 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2765"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2765#respond"
+        },
+        {
+            "title": "May 11, 2015 at 9:10 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2771"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2771#respond"
+        },
+        {
+            "title": "May 11, 2015 at 9:30 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2772"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2772#respond"
+        },
+        {
+            "title": "May 12, 2015 at 12:39 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-2777"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=2777#respond"
+        },
+        {
+            "title": "June 1, 2015 at 7:21 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-3032"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=3032#respond"
+        },
+        {
+            "title": "June 24, 2015 at 7:11 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-3247"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=3247#respond"
+        },
+        {
+            "title": "June 26, 2015 at 10:47 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-3274"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=3274#respond"
+        },
+        {
+            "title": "October 19, 2015 at 10:37 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4733"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4733#respond"
+        },
+        {
+            "title": "October 19, 2015 at 5:57 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4740"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4740#respond"
+        },
+        {
+            "title": "October 26, 2015 at 9:26 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4828"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4828#respond"
+        },
+        {
+            "title": "November 1, 2015 at 12:12 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4892"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4892#respond"
+        },
+        {
+            "title": "November 1, 2015 at 4:56 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4887"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4887#respond"
+        },
+        {
+            "title": "November 1, 2015 at 12:09 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4891"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4891#respond"
+        },
+        {
+            "title": "November 4, 2015 at 6:34 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4935"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4935#respond"
+        },
+        {
+            "title": "November 4, 2015 at 8:28 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-4937"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=4937#respond"
+        },
+        {
+            "title": "November 14, 2015 at 6:15 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5057"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5057#respond"
+        },
+        {
+            "title": "November 16, 2015 at 9:02 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5083"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5083#respond"
+        },
+        {
+            "title": "November 16, 2015 at 9:08 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5084"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5084#respond"
+        },
+        {
+            "title": "November 16, 2015 at 9:09 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5085"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5085#respond"
+        },
+        {
+            "title": "November 16, 2015 at 9:23 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5086"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5086#respond"
+        },
+        {
+            "title": "November 23, 2015 at 6:43 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5197"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5197#respond"
+        },
+        {
+            "title": "November 23, 2015 at 10:54 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5200"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5200#respond"
+        },
+        {
+            "title": "January 17, 2017 at 1:01 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9678"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9678#respond"
+        },
+        {
+            "title": "February 28, 2017 at 10:53 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11161"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11161#respond"
+        },
+        {
+            "title": "December 7, 2015 at 4:44 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5396"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5396#respond"
+        },
+        {
+            "title": "December 7, 2015 at 5:12 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5397"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5397#respond"
+        },
+        {
+            "title": "January 8, 2016 at 9:45 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-5728"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=5728#respond"
+        },
+        {
+            "title": "February 23, 2016 at 11:59 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6248"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6248#respond"
+        },
+        {
+            "title": "March 1, 2016 at 3:05 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6293"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6293#respond"
+        },
+        {
+            "title": "March 1, 2016 at 3:22 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6294"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6294#respond"
+        },
+        {
+            "title": "March 16, 2016 at 8:17 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6413"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6413#respond"
+        },
+        {
+            "title": "March 20, 2016 at 12:26 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6431"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6431#respond"
+        },
+        {
+            "title": "April 3, 2016 at 10:30 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6535"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6535#respond"
+        },
+        {
+            "title": "April 3, 2016 at 9:31 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6540"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6540#respond"
+        },
+        {
+            "title": "April 12, 2016 at 3:21 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6594"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6594#respond"
+        },
+        {
+            "title": "April 21, 2016 at 8:49 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6652"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6652#respond"
+        },
+        {
+            "title": "May 3, 2016 at 1:20 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6770"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6770#respond"
+        },
+        {
+            "title": "May 18, 2016 at 2:12 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-6943"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=6943#respond"
+        },
+        {
+            "title": "May 26, 2016 at 7:27 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7030"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7030#respond"
+        },
+        {
+            "title": "June 5, 2016 at 10:33 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7162"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7162#respond"
+        },
+        {
+            "title": "July 5, 2016 at 1:41 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7397"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7397#respond"
+        },
+        {
+            "title": "July 11, 2016 at 10:44 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7476"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7476#respond"
+        },
+        {
+            "title": "January 17, 2017 at 1:03 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9679"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9679#respond"
+        },
+        {
+            "title": "May 11, 2017 at 1:00 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13804"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13804#respond"
+        },
+        {
+            "title": "May 13, 2017 at 10:01 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13808"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13808#respond"
+        },
+        {
+            "title": "August 12, 2016 at 10:37 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7784"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7784#respond"
+        },
+        {
+            "title": "August 15, 2016 at 10:26 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-7800"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=7800#respond"
+        },
+        {
+            "title": "September 14, 2016 at 2:41 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-8106"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=8106#respond"
+        },
+        {
+            "title": "October 10, 2016 at 12:07 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-8368"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=8368#respond"
+        },
+        {
+            "title": "December 9, 2016 at 12:35 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9001"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9001#respond"
+        },
+        {
+            "title": "December 12, 2016 at 12:55 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9034"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9034#respond"
+        },
+        {
+            "title": "January 10, 2017 at 12:41 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9505"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9505#respond"
+        },
+        {
+            "title": "January 20, 2017 at 1:52 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-9763"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=9763#respond"
+        },
+        {
+            "title": "February 16, 2017 at 1:29 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-10677"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=10677#respond"
+        },
+        {
+            "title": "February 28, 2017 at 10:49 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11159"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11159#respond"
+        },
+        {
+            "title": "February 28, 2017 at 4:57 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11176"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11176#respond"
+        },
+        {
+            "title": "March 3, 2017 at 10:08 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11312"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11312#respond"
+        },
+        {
+            "title": "March 4, 2017 at 12:38 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-11337"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=11337#respond"
+        },
+        {
+            "title": "March 22, 2017 at 7:57 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-12511"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=12511#respond"
+        },
+        {
+            "title": "March 28, 2017 at 1:07 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-12776"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=12776#respond"
+        },
+        {
+            "title": "May 23, 2017 at 11:00 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13854"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13854#respond"
+        },
+        {
+            "title": "June 19, 2017 at 2:35 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13931"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13931#respond"
+        },
+        {
+            "title": "June 19, 2017 at 3:02 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-13935"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=13935#respond"
+        },
+        {
+            "title": "January 30, 2018 at 12:18 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14196"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14196#respond"
+        },
+        {
+            "title": "September 1, 2018 at 1:26 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14301"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14301#respond"
+        },
+        {
+            "title": "November 11, 2018 at 1:18 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14360"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14360#respond"
+        },
+        {
+            "title": "November 11, 2018 at 1:40 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14361"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14361#respond"
+        },
+        {
+            "title": "December 7, 2018 at 2:01 pm",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14388"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14388#respond"
+        },
+        {
+            "title": "February 8, 2019 at 11:20 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14416"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14416#respond"
+        },
+        {
+            "title": "February 8, 2019 at 11:34 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-14420"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=14420#respond"
+        },
+        {
+            "title": "June 20, 2025 at 12:48 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-19505"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=19505#respond"
+        },
+        {
+            "title": "June 20, 2025 at 12:52 am",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/#comment-19506"
+        },
+        {
+            "title": "Reply",
+            "link": "https://www.rethinkela.com/2014/05/40-excellent-short-stories-for-middle-school/?replytocom=19506#respond"
+        },
+        {
+            "title": "Teaching “The Scholarship Jacket”: A Powerful Story for Your ELA Classroom",
+            "link": "https://www.rethinkela.com/2025/06/teaching-the-scholarship-jacket-a-powerful-story-for-your-ela-classroom/"
+        }
+    ],
+    "https://www.storyberries.com/": [
+        {
+            "title": "HOME",
+            "link": "https://www.storyberries.com"
+        },
+        {
+            "title": "STORIES",
+            "link": "https://www.storyberries.com/choose-stories-by-type/"
+        },
+        {
+            "title": "Age",
+            "link": "https://www.storyberries.com/choose-stories-by-age/"
+        },
+        {
+            "title": "Age 0-3",
+            "link": "https://www.storyberries.com/category/age-0-3-bedtime-stories/"
+        },
+        {
+            "title": "Age 4-6",
+            "link": "https://www.storyberries.com/category/age-4-6-bedtime-stories/"
+        },
+        {
+            "title": "Age 7-12",
+            "link": "https://www.storyberries.com/category/age-7-12-bedtime-stories/"
+        },
+        {
+            "title": "Time",
+            "link": "https://www.storyberries.com/choose-short-stories-for-kids-by-reading-time/"
+        },
+        {
+            "title": "5 Min Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "10 Min Stories",
+            "link": "https://www.storyberries.com/category/10-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "15 Min Stories",
+            "link": "https://www.storyberries.com/category/15-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "20 Mins+",
+            "link": "https://www.storyberries.com/category/20-mins-stories-and-chapter-books/"
+        },
+        {
+            "title": "Type",
+            "link": "https://www.storyberries.com/choose-stories-by-type/"
+        },
+        {
+            "title": "Picture Books",
+            "link": "https://www.storyberries.com/category/picture-books/"
+        },
+        {
+            "title": "Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/all-fairy-tales/"
+        },
+        {
+            "title": "Early Readers",
+            "link": "https://www.storyberries.com/category/learn-to-read-with-kids-books-early-readers/"
+        },
+        {
+            "title": "Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/all-poems-for-kids/"
+        },
+        {
+            "title": "Nursery Rhymes",
+            "link": "https://www.storyberries.com/category/poems-for-kids/nursery-rhymes/"
+        },
+        {
+            "title": "Chapter Books",
+            "link": "https://www.storyberries.com/category/chapter-books-for-kids-free-books-online/"
+        },
+        {
+            "title": "Comic Books",
+            "link": "https://www.storyberries.com/category/comic-books-for-kids/"
+        },
+        {
+            "title": "Kids’ Interests",
+            "link": "https://www.storyberries.com/choose-stories-by-topic/"
+        },
+        {
+            "title": "Adventures",
+            "link": "https://www.storyberries.com/category/adventure-books-for-kids/"
+        },
+        {
+            "title": "Animals",
+            "link": "https://www.storyberries.com/category/animal-stories-for-kids/"
+        },
+        {
+            "title": "Art Books",
+            "link": "https://www.storyberries.com/category/art-books-for-kids/"
+        },
+        {
+            "title": "Baby Brother or Sister",
+            "link": "https://www.storyberries.com/category/baby-brother-or-sister/"
+        },
+        {
+            "title": "Bathtime",
+            "link": "https://www.storyberries.com/category/bathtime-stories-for-kids/"
+        },
+        {
+            "title": "Beach and Sea",
+            "link": "https://www.storyberries.com/category/beach-and-sea/"
+        },
+        {
+            "title": "Bedtime",
+            "link": "https://www.storyberries.com/category/kids-stories-about-bedtime-fairy-tales-poems-for-kids/"
+        },
+        {
+            "title": "Being Sick and in Hospital",
+            "link": "https://www.storyberries.com/category/kids-books-about-being-sick-and-in-hospital/"
+        },
+        {
+            "title": "Birthdays",
+            "link": "https://www.storyberries.com/category/stories-about-birthdays-for-kids/"
+        },
+        {
+            "title": "Black and White Baby Books",
+            "link": "https://www.storyberries.com/category/black-and-white-baby-books/"
+        },
+        {
+            "title": "Cars",
+            "link": "https://www.storyberries.com/category/kids-books-about-cars/"
+        },
+        {
+            "title": "Cats",
+            "link": "https://www.storyberries.com/category/kids-stories-about-cats/"
+        },
+        {
+            "title": "Chinese stories",
+            "link": "https://www.storyberries.com/category/chinese-stories-for-kids/"
+        },
+        {
+            "title": "Christmas Stories",
+            "link": "https://www.storyberries.com/category/christmas-stories-for-kids/"
+        },
+        {
+            "title": "Circus",
+            "link": "https://www.storyberries.com/category/circus-stories-for-kids/"
+        },
+        {
+            "title": "Aesop’s Fables",
+            "link": "https://www.storyberries.com/category/fairy-tales/aesops-fables/"
+        },
+        {
+            "title": "Coding",
+            "link": "https://www.storyberries.com/category/coding-books-for-kids/"
+        },
+        {
+            "title": "Colours",
+            "link": "https://www.storyberries.com/category/kids-books-about-colours/"
+        },
+        {
+            "title": "Computers",
+            "link": "https://www.storyberries.com/category/kids-books-about-computers/"
+        },
+        {
+            "title": "Cooking",
+            "link": "https://www.storyberries.com/category/kids-books-about-cooking-for-kids/"
+        },
+        {
+            "title": "Counting",
+            "link": "https://www.storyberries.com/category/kids-books-about-counting/"
+        },
+        {
+            "title": "Creativity",
+            "link": "https://www.storyberries.com/category/kids-books-about-creativity/"
+        },
+        {
+            "title": "Cyber Safety",
+            "link": "https://www.storyberries.com/category/kids-books-about-cyber-safety/"
+        },
+        {
+            "title": "Dancers",
+            "link": "https://www.storyberries.com/category/kids-stories-about-dancers/"
+        },
+        {
+            "title": "Death and Dying",
+            "link": "https://www.storyberries.com/category/kids-books-about-death-and-dying/"
+        },
+        {
+            "title": "Digital Safety",
+            "link": "https://www.storyberries.com/category/kids-books-about-digital-safety/"
+        },
+        {
+            "title": "Dinosaurs",
+            "link": "https://www.storyberries.com/category/kids-books-about-dinosaurs/"
+        },
+        {
+            "title": "Disability",
+            "link": "https://www.storyberries.com/category/kids-books-about-disability/"
+        },
+        {
+            "title": "Divorce and Separation",
+            "link": "https://www.storyberries.com/category/kids-books-about-divorce-and-separation/"
+        },
+        {
+            "title": "Doctors",
+            "link": "https://www.storyberries.com/category/kids-books-about-doctors/"
+        },
+        {
+            "title": "Dogs",
+            "link": "https://www.storyberries.com/category/kids-books-about-dogs/"
+        },
+        {
+            "title": "Dolls",
+            "link": "https://www.storyberries.com/category/kids-books-about-dolls/"
+        },
+        {
+            "title": "Dragons",
+            "link": "https://www.storyberries.com/category/kids-books-about-dragons/"
+        },
+        {
+            "title": "Easter Stories",
+            "link": "https://www.storyberries.com/category/easter-books-for-kids/"
+        },
+        {
+            "title": "Environment",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-environment/"
+        },
+        {
+            "title": "Experimental Art Books",
+            "link": "https://www.storyberries.com/category/experimental-art-books-for-kids/"
+        },
+        {
+            "title": "Fables",
+            "link": "https://www.storyberries.com/category/kids-books-fables/"
+        },
+        {
+            "title": "Fairies",
+            "link": "https://www.storyberries.com/category/kids-books-about-fairies/"
+        },
+        {
+            "title": "Family",
+            "link": "https://www.storyberries.com/category/kids-books-about-family/"
+        },
+        {
+            "title": "Fathers",
+            "link": "https://www.storyberries.com/category/kids-books-about-fathers/"
+        },
+        {
+            "title": "Feelings and Emotions",
+            "link": "https://www.storyberries.com/category/kids-books-about-feelings-and-emotions/"
+        },
+        {
+            "title": "Food",
+            "link": "https://www.storyberries.com/category/kids-books-about-food-for-kids/"
+        },
+        {
+            "title": "Football",
+            "link": "https://www.storyberries.com/category/kids-books-about-football/"
+        },
+        {
+            "title": "Friends",
+            "link": "https://www.storyberries.com/category/kids-books-about-friends/"
+        },
+        {
+            "title": "Funny",
+            "link": "https://www.storyberries.com/category/funny-kids-books/"
+        },
+        {
+            "title": "Gardens",
+            "link": "https://www.storyberries.com/category/kids-books-about-gardens/"
+        },
+        {
+            "title": "Funny Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/short-funny-stories/"
+        },
+        {
+            "title": "Funny Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/funny-poems/"
+        },
+        {
+            "title": "Ghosts",
+            "link": "https://www.storyberries.com/category/ghost-stories-for-kids/"
+        },
+        {
+            "title": "Giants",
+            "link": "https://www.storyberries.com/category/kids-books-about-giants/"
+        },
+        {
+            "title": "Good Manners",
+            "link": "https://www.storyberries.com/category/kids-books-about-good-manners/"
+        },
+        {
+            "title": "Grandparents",
+            "link": "https://www.storyberries.com/category/kids-books-about-grandparents/"
+        },
+        {
+            "title": "Growing Up",
+            "link": "https://www.storyberries.com/category/kids-books-about-growing-up/"
+        },
+        {
+            "title": "Growth Mindset",
+            "link": "https://www.storyberries.com/category/growth-mindset-books-for-kids/"
+        },
+        {
+            "title": "Halloween",
+            "link": "https://www.storyberries.com/category/halloween-scary-stories-for-kids/"
+        },
+        {
+            "title": "Health",
+            "link": "https://www.storyberries.com/category/kids-books-about-health/"
+        },
+        {
+            "title": "Helping",
+            "link": "https://www.storyberries.com/category/kids-books-about-helping/"
+        },
+        {
+            "title": "Heroes",
+            "link": "https://www.storyberries.com/category/kids-books-about-heroes/"
+        },
+        {
+            "title": "Horses",
+            "link": "https://www.storyberries.com/category/kids-books-about-horses/"
+        },
+        {
+            "title": "Human Body",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-human-body/"
+        },
+        {
+            "title": "Hygiene",
+            "link": "https://www.storyberries.com/category/kids-books-about-hygiene/"
+        },
+        {
+            "title": "Independence",
+            "link": "https://www.storyberries.com/category/kids-books-about-independence/"
+        },
+        {
+            "title": "Indian Stories",
+            "link": "https://www.storyberries.com/category/kids-books-indian-stories/"
+        },
+        {
+            "title": "Insects",
+            "link": "https://www.storyberries.com/category/kids-books-about-insects/"
+        },
+        {
+            "title": "Japanese Stories",
+            "link": "https://www.storyberries.com/category/kids-books-japanese-stories/"
+        },
+        {
+            "title": "Jobs",
+            "link": "https://www.storyberries.com/category/kids-books-about-jobs/"
+        },
+        {
+            "title": "Kids Horror",
+            "link": "https://www.storyberries.com/category/kids-books-kids-horror/"
+        },
+        {
+            "title": "Kids Writing",
+            "link": "https://www.storyberries.com/category/kids-writing/"
+        },
+        {
+            "title": "Languages Other Than English",
+            "link": "https://www.storyberries.com/category/kids-books-languages-other-than-english/"
+        },
+        {
+            "title": "Learning",
+            "link": "https://www.storyberries.com/category/kids-books-about-learning/"
+        },
+        {
+            "title": "Length and Measurement",
+            "link": "https://www.storyberries.com/category/kids-books-about-length-and-measurement/"
+        },
+        {
+            "title": "Limericks",
+            "link": "https://www.storyberries.com/category/limericks-kids-books/"
+        },
+        {
+            "title": "Love",
+            "link": "https://www.storyberries.com/category/kids-books-about-love/"
+        },
+        {
+            "title": "Lullabies",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-lullabies/"
+        },
+        {
+            "title": "Magic",
+            "link": "https://www.storyberries.com/category/kids-books-about-magic/"
+        },
+        {
+            "title": "Maths",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-about-maths/"
+        },
+        {
+            "title": "Mermaids",
+            "link": "https://www.storyberries.com/category/kids-books-about-mermaids/"
+        },
+        {
+            "title": "Greek Myths and Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/greek-myths-and-fairy-tales/"
+        },
+        {
+            "title": "Haiku Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/haiku-poems-for-kids/"
+        },
+        {
+            "title": "Middle Grade",
+            "link": "https://www.storyberries.com/category/middle-grade-kids-books/"
+        },
+        {
+            "title": "Mindfulness",
+            "link": "https://www.storyberries.com/category/kids-books-about-mindfulness/"
+        },
+        {
+            "title": "Monsters",
+            "link": "https://www.storyberries.com/category/kids-books-about-monsters/"
+        },
+        {
+            "title": "Morals",
+            "link": "https://www.storyberries.com/category/kids-books-with-morals/"
+        },
+        {
+            "title": "Mothers",
+            "link": "https://www.storyberries.com/category/kids-books-about-mothers/"
+        },
+        {
+            "title": "Moving House",
+            "link": "https://www.storyberries.com/category/kids-books-about-moving-house/"
+        },
+        {
+            "title": "Music",
+            "link": "https://www.storyberries.com/category/kids-books-about-music/"
+        },
+        {
+            "title": "Mysteries",
+            "link": "https://www.storyberries.com/category/kids-mystery-books/"
+        },
+        {
+            "title": "Myths",
+            "link": "https://www.storyberries.com/category/kids-books-myths-and-legends/"
+        },
+        {
+            "title": "Native American",
+            "link": "https://www.storyberries.com/category/native-american-kids-books/"
+        },
+        {
+            "title": "Neighbourhoods",
+            "link": "https://www.storyberries.com/category/kids-stories-about-neighbourhoods/"
+        },
+        {
+            "title": "Ninjas",
+            "link": "https://www.storyberries.com/category/kids-books-about-ninjas/"
+        },
+        {
+            "title": "No-Words Stories",
+            "link": "https://www.storyberries.com/category/no-words-stories-wordless-kids-books/"
+        },
+        {
+            "title": "Non-Fiction",
+            "link": "https://www.storyberries.com/category/non-fiction-kids-books/"
+        },
+        {
+            "title": "Numbers and Counting",
+            "link": "https://www.storyberries.com/category/kids-books-about-numbers-and-counting/"
+        },
+        {
+            "title": "Pets",
+            "link": "https://www.storyberries.com/category/kids-books-about-pets/"
+        },
+        {
+            "title": "Phonics Books",
+            "link": "https://www.storyberries.com/category/free-phonics-books-learn-to-read-books/"
+        },
+        {
+            "title": "Picnics",
+            "link": "https://www.storyberries.com/category/kids-books-about-picnics/"
+        },
+        {
+            "title": "Pigs",
+            "link": "https://www.storyberries.com/category/kids-books-about-pigs/"
+        },
+        {
+            "title": "Pirates",
+            "link": "https://www.storyberries.com/category/kids-books-about-pirates/"
+        },
+        {
+            "title": "Pixies",
+            "link": "https://www.storyberries.com/category/kids-books-about-pixies/"
+        },
+        {
+            "title": "Princesses and Princes",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-about-princesses-and-princes/"
+        },
+        {
+            "title": "Reading",
+            "link": "https://www.storyberries.com/category/stories-about-books-and-libraries-for-kids/"
+        },
+        {
+            "title": "Refugees",
+            "link": "https://www.storyberries.com/category/kids-books-about-refugees/"
+        },
+        {
+            "title": "Sad",
+            "link": "https://www.storyberries.com/category/sad-kids-books-and-stories/"
+        },
+        {
+            "title": "Scary",
+            "link": "https://www.storyberries.com/category/scary-stories-for-kids/"
+        },
+        {
+            "title": "School",
+            "link": "https://www.storyberries.com/category/kids-books-about-school/"
+        },
+        {
+            "title": "Science",
+            "link": "https://www.storyberries.com/category/kids-books-about-science/"
+        },
+        {
+            "title": "Seasons",
+            "link": "https://www.storyberries.com/category/kids-books-about-seasons/"
+        },
+        {
+            "title": "Senses",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-five-senses/"
+        },
+        {
+            "title": "Once Untold Fairytales",
+            "link": "https://www.storyberries.com/category/fairy-tales/once-untold-fairytales/"
+        },
+        {
+            "title": "Modern Stories",
+            "link": "https://www.storyberries.com/category/10-min-stories-free-bedtime-stories-poems-fairy-tales/10-minute-modern-stories/"
+        },
+        {
+            "title": "Rhyming Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/short-rhyming-stories/"
+        },
+        {
+            "title": "Shakespeare",
+            "link": "https://www.storyberries.com/category/kids-books-about-shakespeare/"
+        },
+        {
+            "title": "Shapes",
+            "link": "https://www.storyberries.com/category/kids-books-about-shapes-early-maths/"
+        },
+        {
+            "title": "Siblings",
+            "link": "https://www.storyberries.com/category/kids-books-about-siblings-brothers-and-sisters/"
+        },
+        {
+            "title": "Sleep and Bedtime",
+            "link": "https://www.storyberries.com/category/sleep-and-bedtime-stories/"
+        },
+        {
+            "title": "Space",
+            "link": "https://www.storyberries.com/category/kids-books-about-space/"
+        },
+        {
+            "title": "Sports",
+            "link": "https://www.storyberries.com/category/kids-books-about-sports/"
+        },
+        {
+            "title": "STEM",
+            "link": "https://www.storyberries.com/category/best-kids-stem-books-online/"
+        },
+        {
+            "title": "Thanksgiving",
+            "link": "https://www.storyberries.com/category/thanksgiving-stories-kids-books/"
+        },
+        {
+            "title": "Toys",
+            "link": "https://www.storyberries.com/category/kids-books-about-toys/"
+        },
+        {
+            "title": "Tradition and Culture",
+            "link": "https://www.storyberries.com/category/kids-books-about-tradition-and-culture/"
+        },
+        {
+            "title": "Trains",
+            "link": "https://www.storyberries.com/category/kids-books-about-trains/"
+        },
+        {
+            "title": "Trolls",
+            "link": "https://www.storyberries.com/category/kids-books-about-trolls/"
+        },
+        {
+            "title": "Trucks",
+            "link": "https://www.storyberries.com/category/kids-books-about-trucks/"
+        },
+        {
+            "title": "Unicorns",
+            "link": "https://www.storyberries.com/category/kids-books-about-unicorns/"
+        },
+        {
+            "title": "Vacations",
+            "link": "https://www.storyberries.com/category/kids-books-about-vacations/"
+        },
+        {
+            "title": "Vintage Stories",
+            "link": "https://www.storyberries.com/category/vintage-stories-kids-books/"
+        },
+        {
+            "title": "Weather",
+            "link": "https://www.storyberries.com/category/kids-books-about-weather/"
+        },
+        {
+            "title": "Winter and Snow",
+            "link": "https://www.storyberries.com/category/kids-books-about-winter-and-snow/"
+        },
+        {
+            "title": "Witches",
+            "link": "https://www.storyberries.com/category/kids-books-about-witches/"
+        },
+        {
+            "title": "Wobbly Teeth",
+            "link": "https://www.storyberries.com/category/kids-books-about-wobbly-teeth-and-losing-teeth/"
+        },
+        {
+            "title": "Zombies",
+            "link": "https://www.storyberries.com/category/kids-books-about-zombies/"
+        },
+        {
+            "title": "Discussion Topics",
+            "link": "https://www.storyberries.com/short-stories-for-kids-discussion-themes/"
+        },
+        {
+            "title": "Beauty",
+            "link": "https://www.storyberries.com/tag/kids-books-about-beauty/"
+        },
+        {
+            "title": "Communication",
+            "link": "https://www.storyberries.com/tag/kids-books-about-communication/"
+        },
+        {
+            "title": "Community",
+            "link": "https://www.storyberries.com/tag/kids-books-about-community/"
+        },
+        {
+            "title": "Conversation",
+            "link": "https://www.storyberries.com/tag/kids-books-to-encourage-conversation/"
+        },
+        {
+            "title": "Co-operation",
+            "link": "https://www.storyberries.com/tag/kids-books-about-co-operation/"
+        },
+        {
+            "title": "Courage",
+            "link": "https://www.storyberries.com/tag/kids-books-about-courage/"
+        },
+        {
+            "title": "Creativity",
+            "link": "https://www.storyberries.com/tag/kids-books-about-creativity/"
+        },
+        {
+            "title": "Empathy",
+            "link": "https://www.storyberries.com/tag/kids-books-about-empathy/"
+        },
+        {
+            "title": "Fairness",
+            "link": "https://www.storyberries.com/tag/kids-books-about-fairness/"
+        },
+        {
+            "title": "Family",
+            "link": "https://www.storyberries.com/tag/kids-books-about-family/"
+        },
+        {
+            "title": "Feelings",
+            "link": "https://www.storyberries.com/tag/kids-books-about-feelings/"
+        },
+        {
+            "title": "Friendship",
+            "link": "https://www.storyberries.com/tag/kids-books-about-friendship/"
+        },
+        {
+            "title": "Gratitude",
+            "link": "https://www.storyberries.com/tag/kids-books-about-gratitude/"
+        },
+        {
+            "title": "Healthy Eating",
+            "link": "https://www.storyberries.com/tag/kids-books-about-healthy-eating/"
+        },
+        {
+            "title": "Helping",
+            "link": "https://www.storyberries.com/tag/kids-books-about-helping/"
+        },
+        {
+            "title": "Imagination",
+            "link": "https://www.storyberries.com/tag/kids-books-about-imagination/"
+        },
+        {
+            "title": "Independent Thinking",
+            "link": "https://www.storyberries.com/tag/kids-books-about-independent-thinking-and-critical-thinking/"
+        },
+        {
+            "title": "Kindness",
+            "link": "https://www.storyberries.com/tag/kids-books-about-kindness/"
+        },
+        {
+            "title": "Love",
+            "link": "https://www.storyberries.com/tag/kids-books-about-love/"
+        },
+        {
+            "title": "Optimism",
+            "link": "https://www.storyberries.com/tag/kids-books-about-optimism/"
+        },
+        {
+            "title": "Responsibility",
+            "link": "https://www.storyberries.com/tag/kids-books-about-responsibility/"
+        },
+        {
+            "title": "Self Confidence",
+            "link": "https://www.storyberries.com/tag/kids-books-about-self-confidence/"
+        },
+        {
+            "title": "Stranger Danger",
+            "link": "https://www.storyberries.com/tag/kids-books-about-stranger-danger/"
+        },
+        {
+            "title": "AUDIO BOOKS",
+            "link": "https://www.storyberries.com/storyberries-bedtime-radio/"
+        },
+        {
+            "title": "Two of a Kind",
+            "link": "https://www.storyberries.com/online-storybooks-two-of-a-kind-bedtime-stories-and-short-stories-for-kids/"
+        },
+        {
+            "title": "Latest Online Storybooks",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/all-5-min-bedtime-stories/"
+        },
+        {
+            "title": "Duncan the Doughnut Wants a Job",
+            "link": "https://www.storyberries.com/bedtime-stories-duncan-the-donut-wants-a-job-short-stories-for-kids/"
+        },
+        {
+            "title": "The Lions and the Lamb",
+            "link": "https://www.storyberries.com/bedtime-stories-the-lions-and-the-lamb-folk-tales-for-kids/"
+        },
+        {
+            "title": "The Big Bad Wolf and his Magic Vacuum Cleaner!",
+            "link": "https://www.storyberries.com/fractured-fairy-tales-the-big-bad-wolf-and-his-magic-vacuum-cleaner-bedtime-stories-comics-for-kids/"
+        },
+        {
+            "title": "5 Minute Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "What Will You Get Your Family For Christmas?",
+            "link": "https://www.storyberries.com/bedtime-stories-what-will-you-get-your-family-for-christmas-free-kids-books/"
+        },
+        {
+            "title": "When Simha Broke ALL The Rules!",
+            "link": "https://www.storyberries.com/bedtime-stories-when-simha-broke-all-the-rules-prarthana-gururaj-anu-madhavan-short-stories-for-kids/"
+        },
+        {
+            "title": "Veeru Goes to the Circus",
+            "link": "https://www.storyberries.com/veeru-goes-to-the-circus/"
+        },
+        {
+            "title": "Catch That Cat!",
+            "link": "https://www.storyberries.com/bedtime-stories-catch-that-cat-short-stories-for-kids/"
+        },
+        {
+            "title": "The Miraculous Secret",
+            "link": "https://www.storyberries.com/fairy-tales-the-miraculous-secret-once-untold-obscure-myths-folktales/"
+        },
+        {
+            "title": "Jimmy the Cat and Bobik’s Birthday",
+            "link": "https://www.storyberries.com/short-stories-for-kids-jimmy-the-cat-and-bobiks-birthday/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "Feel-Good Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/feel-good-fairy-tales-by-storyberries/"
+        },
+        {
+            "title": "Cinderella (Feel Good Fairy Tales)",
+            "link": "https://www.storyberries.com/feel-good-fairy-tales-cinderella-fractured-fairy-tale-stories/"
+        },
+        {
+            "title": "Little Blue Riding Hood",
+            "link": "https://www.storyberries.com/fairy-tales-little-blue-riding-hood-bedtime-stories-for-kids-feel-good-fairy-tales/"
+        },
+        {
+            "title": "Goldilocks and the FOUR Bears!",
+            "link": "https://www.storyberries.com/bedtime-stories-goldilocks-and-the-four-bears-fairy-tales-for-kids/"
+        },
+        {
+            "title": "Yummy, Happy, Good-Time Soup!",
+            "link": "https://www.storyberries.com/bedtime-stories-yummy-happy-good-time-soup-funny-fairy-tales/"
+        },
+        {
+            "title": "Little Red Riding Hood (Feel Good Fairy Tales)",
+            "link": "https://www.storyberries.com/bedtime-stories-little-red-riding-hood-feel-good-fairy-tales/"
+        },
+        {
+            "title": "The Pied Piper… and BUTTERFLIES!",
+            "link": "https://www.storyberries.com/bedtime-stories-the-pied-piper-and-butterflies-by-jade-maitre-fairy-tales-for-kids/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/fairy-tales/feel-good-fairy-tales-by-storyberries/"
+        },
+        {
+            "title": "Dark Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/dark-fairy-tales/"
+        },
+        {
+            "title": "The Brave Life of Little Pea",
+            "link": "https://www.storyberries.com/fairy-tales-the-brave-life-of-little-pea-once-untold-folktales-bedtime-stories/"
+        },
+        {
+            "title": "The Beast-Skinned Demon and the Blood Flowers",
+            "link": "https://www.storyberries.com/the-beast-skinned-demon-and-the-blood-flowers/"
+        },
+        {
+            "title": "Don’t Laugh in Bungelos Street",
+            "link": "https://www.storyberries.com/dark-fairy-tales-dont-laugh-in-bungelos-street-halloween-bedtime-stories/"
+        },
+        {
+            "title": "Six Go Through The World",
+            "link": "https://www.storyberries.com/tales-untold-fairy-tales-six-go-through-the-world-arthurian-myths-legends/"
+        },
+        {
+            "title": "The Burning Girls",
+            "link": "https://www.storyberries.com/halloween-stories-the-burning-girls-by-jade-maitre-dark-fairy-tales/"
+        },
+        {
+            "title": "Ivasyk Little Stick",
+            "link": "https://www.storyberries.com/bedtime-stories-ivasyk-little-stick-ukrainian-fairy-tales/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/fairy-tales/dark-fairy-tales/"
+        },
+        {
+            "title": "Age 0-3 Storybooks",
+            "link": "https://www.storyberries.com/category/age-0-3-bedtime-stories/"
+        },
+        {
+            "title": "Clever Pig",
+            "link": "https://www.storyberries.com/bedtime-stories-clever-pig/"
+        },
+        {
+            "title": "A House for Mouse",
+            "link": "https://www.storyberries.com/bedtime-stories-a-house-for-mouse/"
+        },
+        {
+            "title": "Mama Antelope’s House",
+            "link": "https://www.storyberries.com/short-stories-for-kids-mama-antelopes-house-bedtime-stories/"
+        },
+        {
+            "title": "ABCD – A Nature Alphabet Book",
+            "link": "https://www.storyberries.com/abcd-a-nature-book-kids-alphabet-book-learn-to-read/"
+        },
+        {
+            "title": "Sing To Me",
+            "link": "https://www.storyberries.com/bedtime-stories-sing-to-me-short-stories-for-kids/"
+        },
+        {
+            "title": "My Autumn Senses",
+            "link": "https://www.storyberries.com/bedtime-stories-my-autumn-senses-short-stories-for-kids-about-the-seasons/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/age-0-3-bedtime-stories/"
+        },
+        {
+            "title": "Age 4-6 Storybooks",
+            "link": "https://www.storyberries.com/category/age-4-6-bedtime-stories/"
+        },
+        {
+            "title": "Mud",
+            "link": "https://www.storyberries.com/bedtime-stories-mud-short-stories-for-kids/"
+        },
+        {
+            "title": "Princess Rose and the Golden Bird",
+            "link": "https://www.storyberries.com/fairy-tales-princess-rose-and-the-golden-bird-by-sergey-nikolov/"
+        },
+        {
+            "title": "Why the Owl Never Sleeps",
+            "link": "https://www.storyberries.com/bedtime-stories-why-the-owl-never-sleeps-short-stories-for-kids/"
+        },
+        {
+            "title": "The Wise Mamma Goose",
+            "link": "https://www.storyberries.com/the-wise-mammagoose/"
+        },
+        {
+            "title": "A Letter FROM Santa!",
+            "link": "https://www.storyberries.com/bedtime-stories-a-letter-from-santa-christmas-stories-for-kids/"
+        },
+        {
+            "title": "A Summer Snowman",
+            "link": "https://www.storyberries.com/bedtime-stories-a-summer-snowman-by-andrea-kaczmarek-xmas-books-for-kids/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/age-4-6-bedtime-stories/"
+        },
+        {
+            "title": "Age 7-12 Storybooks",
+            "link": "https://www.storyberries.com/category/age-7-12-bedtime-stories/"
+        },
+        {
+            "title": "Visiting Hospital",
+            "link": "https://www.storyberries.com/bedtime-stories-visiting-hospital-poems-for-kids/"
+        },
+        {
+            "title": "Be Careful What You Wish For!",
+            "link": "https://www.storyberries.com/funny-poems-for-kids-be-careful-what-you-wish-for/"
+        },
+        {
+            "title": "Goody Two Shoes",
+            "link": "https://www.storyberries.com/fairy-tales-goody-two-shoes-short-stories-for-kids/"
+        },
+        {
+            "title": "The Fir Tree",
+            "link": "https://www.storyberries.com/fairy-tales-the-fir-tree-by-hans-christian-andersen/"
+        },
+        {
+            "title": "Princess Rosetta",
+            "link": "https://www.storyberries.com/fairy-tales-princess-rosetta-by-katharine-pyle/"
+        },
+        {
+            "title": "Minnikin",
+            "link": "https://www.storyberries.com/fairy-tales-minnikin-by-asbjornsen-and-moe/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/age-7-12-bedtime-stories/"
+        },
+        {
+            "title": "Learn to Read Books",
+            "link": "https://www.storyberries.com/category/learn-to-read-with-kids-books-early-readers/"
+        },
+        {
+            "title": "An Autumn Walk",
+            "link": "https://www.storyberries.com/bedtime-stories-an-autumn-walk/"
+        },
+        {
+            "title": "Scared Tumi",
+            "link": "https://www.storyberries.com/scared-tumi-short-stories-for-kids/"
+        },
+        {
+            "title": "Baby’s Got The Hiccups",
+            "link": "https://www.storyberries.com/bedtime-stories-babys-got-the-hiccups-baby-books-online/"
+        },
+        {
+            "title": "Sleep Sweetly, Little Light",
+            "link": "https://www.storyberries.com/bedtime-stories-sleep-sweetly-little-light-lullabies-for-children/"
+        },
+        {
+            "title": "Let’s Be Friends",
+            "link": "https://www.storyberries.com/bedtime-stories-lets-be-friends-short-stories-for-kids/"
+        },
+        {
+            "title": "Jane and Jake Run A Race",
+            "link": "https://www.storyberries.com/bedtime-stories-jane-and-jake-run-a-race-free-phonics-books-for-learning-to-read/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/learn-to-read-with-kids-books-early-readers/"
+        },
+        {
+            "title": "Comic Books",
+            "link": "https://www.storyberries.com/category/comic-books-for-kids/"
+        },
+        {
+            "title": "Pepper and Carrot Comic – Episode 20",
+            "link": "https://www.storyberries.com/pepper-and-carrot-comic-episode-20-the-picnic/"
+        },
+        {
+            "title": "Lion Queen – Monster Me Comics",
+            "link": "https://www.storyberries.com/bedtime-stories-monster-me-lion-queen-free-kids-comics-books/"
+        },
+        {
+            "title": "Pepper and Carrot Comic – Episode 8",
+            "link": "https://www.storyberries.com/pepper-and-carrot-comic-episode-8-peppers-birthday-party/"
+        },
+        {
+            "title": "Pepper and Carrot – Episode 4",
+            "link": "https://www.storyberries.com/pepper-and-carrot-episode-4/"
+        },
+        {
+            "title": "Pepper and Carrot Comic – Episode 17",
+            "link": "https://www.storyberries.com/pepper-and-carrot-comic-episode-17-a-fresh-start/"
+        },
+        {
+            "title": "Pepper and Carrot Comic – Episode 22",
+            "link": "https://www.storyberries.com/pepper-and-carrot-comic-episode-22-the-voting-system/"
+        },
+        {
+            "title": "Read More",
+            "link": "https://www.storyberries.com/category/comic-books-for-kids/"
+        },
+        {
+            "title": "Choose a Story by Discussion Topic !",
+            "link": "https://storyberries.com/short-stories-for-kids-discussion-themes/"
+        },
+        {
+            "title": "Choose a Story by What it’s About !",
+            "link": "https://www.storyberries.com/category/comic-books-for-kids/"
+        },
+        {
+            "title": "Choose a Story by What It’s About !",
+            "link": "https://www.storyberries.com/choose-stories-by-topic/"
+        },
+        {
+            "title": "About Us",
+            "link": "https://www.storyberries.com/bedtime-stories-short-stories-for-kids/"
+        },
+        {
+            "title": "Volunteer",
+            "link": "https://www.storyberries.com/write-for-kids-illustrate-for-kids/"
+        },
+        {
+            "title": "Friends",
+            "link": "https://www.storyberries.com/free-books-online-our-community-friends-of-storyberries/"
+        },
+        {
+            "title": "Link to us",
+            "link": "https://www.storyberries.com/link-to-us/"
+        },
+        {
+            "title": "Permissions FAQs",
+            "link": "https://www.storyberries.com/permissions-faqs/"
+        },
+        {
+            "title": "Copyright",
+            "link": "https://www.storyberries.com/3110-2/"
+        },
+        {
+            "title": "Privacy Policy",
+            "link": "https://www.storyberries.com/privacy-policy/"
+        },
+        {
+            "title": "Terms & Conditions",
+            "link": "https://www.storyberries.com/terms-and-conditions-of-use/"
+        },
+        {
+            "title": "Contact",
+            "link": "https://www.storyberries.com/contact/"
+        },
+        {
+            "title": "HOME",
+            "link": "https://www.storyberries.com"
+        },
+        {
+            "title": "STORIES",
+            "link": "https://www.storyberries.com/choose-stories-by-type/"
+        },
+        {
+            "title": "Age",
+            "link": "https://www.storyberries.com/choose-stories-by-age/"
+        },
+        {
+            "title": "Age 0-3",
+            "link": "https://www.storyberries.com/category/age-0-3-bedtime-stories/"
+        },
+        {
+            "title": "Age 4-6",
+            "link": "https://www.storyberries.com/category/age-4-6-bedtime-stories/"
+        },
+        {
+            "title": "Age 7-12",
+            "link": "https://www.storyberries.com/category/age-7-12-bedtime-stories/"
+        },
+        {
+            "title": "Time",
+            "link": "https://www.storyberries.com/choose-short-stories-for-kids-by-reading-time/"
+        },
+        {
+            "title": "5 Min Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "10 Min Stories",
+            "link": "https://www.storyberries.com/category/10-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "15 Min Stories",
+            "link": "https://www.storyberries.com/category/15-min-stories-free-bedtime-stories-poems-fairy-tales/"
+        },
+        {
+            "title": "20 Mins+",
+            "link": "https://www.storyberries.com/category/20-mins-stories-and-chapter-books/"
+        },
+        {
+            "title": "Type",
+            "link": "https://www.storyberries.com/choose-stories-by-type/"
+        },
+        {
+            "title": "Picture Books",
+            "link": "https://www.storyberries.com/category/picture-books/"
+        },
+        {
+            "title": "Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/all-fairy-tales/"
+        },
+        {
+            "title": "Early Readers",
+            "link": "https://www.storyberries.com/category/learn-to-read-with-kids-books-early-readers/"
+        },
+        {
+            "title": "Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/all-poems-for-kids/"
+        },
+        {
+            "title": "Nursery Rhymes",
+            "link": "https://www.storyberries.com/category/poems-for-kids/nursery-rhymes/"
+        },
+        {
+            "title": "Chapter Books",
+            "link": "https://www.storyberries.com/category/chapter-books-for-kids-free-books-online/"
+        },
+        {
+            "title": "Comic Books",
+            "link": "https://www.storyberries.com/category/comic-books-for-kids/"
+        },
+        {
+            "title": "Kids’ Interests",
+            "link": "https://www.storyberries.com/choose-stories-by-topic/"
+        },
+        {
+            "title": "Adventures",
+            "link": "https://www.storyberries.com/category/adventure-books-for-kids/"
+        },
+        {
+            "title": "Animals",
+            "link": "https://www.storyberries.com/category/animal-stories-for-kids/"
+        },
+        {
+            "title": "Art Books",
+            "link": "https://www.storyberries.com/category/art-books-for-kids/"
+        },
+        {
+            "title": "Baby Brother or Sister",
+            "link": "https://www.storyberries.com/category/baby-brother-or-sister/"
+        },
+        {
+            "title": "Bathtime",
+            "link": "https://www.storyberries.com/category/bathtime-stories-for-kids/"
+        },
+        {
+            "title": "Beach and Sea",
+            "link": "https://www.storyberries.com/category/beach-and-sea/"
+        },
+        {
+            "title": "Bedtime",
+            "link": "https://www.storyberries.com/category/kids-stories-about-bedtime-fairy-tales-poems-for-kids/"
+        },
+        {
+            "title": "Being Sick and in Hospital",
+            "link": "https://www.storyberries.com/category/kids-books-about-being-sick-and-in-hospital/"
+        },
+        {
+            "title": "Birthdays",
+            "link": "https://www.storyberries.com/category/stories-about-birthdays-for-kids/"
+        },
+        {
+            "title": "Black and White Baby Books",
+            "link": "https://www.storyberries.com/category/black-and-white-baby-books/"
+        },
+        {
+            "title": "Cars",
+            "link": "https://www.storyberries.com/category/kids-books-about-cars/"
+        },
+        {
+            "title": "Cats",
+            "link": "https://www.storyberries.com/category/kids-stories-about-cats/"
+        },
+        {
+            "title": "Chinese stories",
+            "link": "https://www.storyberries.com/category/chinese-stories-for-kids/"
+        },
+        {
+            "title": "Christmas Stories",
+            "link": "https://www.storyberries.com/category/christmas-stories-for-kids/"
+        },
+        {
+            "title": "Circus",
+            "link": "https://www.storyberries.com/category/circus-stories-for-kids/"
+        },
+        {
+            "title": "Aesop’s Fables",
+            "link": "https://www.storyberries.com/category/fairy-tales/aesops-fables/"
+        },
+        {
+            "title": "Coding",
+            "link": "https://www.storyberries.com/category/coding-books-for-kids/"
+        },
+        {
+            "title": "Colours",
+            "link": "https://www.storyberries.com/category/kids-books-about-colours/"
+        },
+        {
+            "title": "Computers",
+            "link": "https://www.storyberries.com/category/kids-books-about-computers/"
+        },
+        {
+            "title": "Cooking",
+            "link": "https://www.storyberries.com/category/kids-books-about-cooking-for-kids/"
+        },
+        {
+            "title": "Counting",
+            "link": "https://www.storyberries.com/category/kids-books-about-counting/"
+        },
+        {
+            "title": "Creativity",
+            "link": "https://www.storyberries.com/category/kids-books-about-creativity/"
+        },
+        {
+            "title": "Cyber Safety",
+            "link": "https://www.storyberries.com/category/kids-books-about-cyber-safety/"
+        },
+        {
+            "title": "Dancers",
+            "link": "https://www.storyberries.com/category/kids-stories-about-dancers/"
+        },
+        {
+            "title": "Death and Dying",
+            "link": "https://www.storyberries.com/category/kids-books-about-death-and-dying/"
+        },
+        {
+            "title": "Digital Safety",
+            "link": "https://www.storyberries.com/category/kids-books-about-digital-safety/"
+        },
+        {
+            "title": "Dinosaurs",
+            "link": "https://www.storyberries.com/category/kids-books-about-dinosaurs/"
+        },
+        {
+            "title": "Disability",
+            "link": "https://www.storyberries.com/category/kids-books-about-disability/"
+        },
+        {
+            "title": "Divorce and Separation",
+            "link": "https://www.storyberries.com/category/kids-books-about-divorce-and-separation/"
+        },
+        {
+            "title": "Doctors",
+            "link": "https://www.storyberries.com/category/kids-books-about-doctors/"
+        },
+        {
+            "title": "Dogs",
+            "link": "https://www.storyberries.com/category/kids-books-about-dogs/"
+        },
+        {
+            "title": "Dolls",
+            "link": "https://www.storyberries.com/category/kids-books-about-dolls/"
+        },
+        {
+            "title": "Dragons",
+            "link": "https://www.storyberries.com/category/kids-books-about-dragons/"
+        },
+        {
+            "title": "Easter Stories",
+            "link": "https://www.storyberries.com/category/easter-books-for-kids/"
+        },
+        {
+            "title": "Environment",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-environment/"
+        },
+        {
+            "title": "Experimental Art Books",
+            "link": "https://www.storyberries.com/category/experimental-art-books-for-kids/"
+        },
+        {
+            "title": "Fables",
+            "link": "https://www.storyberries.com/category/kids-books-fables/"
+        },
+        {
+            "title": "Fairies",
+            "link": "https://www.storyberries.com/category/kids-books-about-fairies/"
+        },
+        {
+            "title": "Family",
+            "link": "https://www.storyberries.com/category/kids-books-about-family/"
+        },
+        {
+            "title": "Fathers",
+            "link": "https://www.storyberries.com/category/kids-books-about-fathers/"
+        },
+        {
+            "title": "Feelings and Emotions",
+            "link": "https://www.storyberries.com/category/kids-books-about-feelings-and-emotions/"
+        },
+        {
+            "title": "Food",
+            "link": "https://www.storyberries.com/category/kids-books-about-food-for-kids/"
+        },
+        {
+            "title": "Football",
+            "link": "https://www.storyberries.com/category/kids-books-about-football/"
+        },
+        {
+            "title": "Friends",
+            "link": "https://www.storyberries.com/category/kids-books-about-friends/"
+        },
+        {
+            "title": "Funny",
+            "link": "https://www.storyberries.com/category/funny-kids-books/"
+        },
+        {
+            "title": "Gardens",
+            "link": "https://www.storyberries.com/category/kids-books-about-gardens/"
+        },
+        {
+            "title": "Funny Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/short-funny-stories/"
+        },
+        {
+            "title": "Funny Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/funny-poems/"
+        },
+        {
+            "title": "Ghosts",
+            "link": "https://www.storyberries.com/category/ghost-stories-for-kids/"
+        },
+        {
+            "title": "Giants",
+            "link": "https://www.storyberries.com/category/kids-books-about-giants/"
+        },
+        {
+            "title": "Good Manners",
+            "link": "https://www.storyberries.com/category/kids-books-about-good-manners/"
+        },
+        {
+            "title": "Grandparents",
+            "link": "https://www.storyberries.com/category/kids-books-about-grandparents/"
+        },
+        {
+            "title": "Growing Up",
+            "link": "https://www.storyberries.com/category/kids-books-about-growing-up/"
+        },
+        {
+            "title": "Growth Mindset",
+            "link": "https://www.storyberries.com/category/growth-mindset-books-for-kids/"
+        },
+        {
+            "title": "Halloween",
+            "link": "https://www.storyberries.com/category/halloween-scary-stories-for-kids/"
+        },
+        {
+            "title": "Health",
+            "link": "https://www.storyberries.com/category/kids-books-about-health/"
+        },
+        {
+            "title": "Helping",
+            "link": "https://www.storyberries.com/category/kids-books-about-helping/"
+        },
+        {
+            "title": "Heroes",
+            "link": "https://www.storyberries.com/category/kids-books-about-heroes/"
+        },
+        {
+            "title": "Horses",
+            "link": "https://www.storyberries.com/category/kids-books-about-horses/"
+        },
+        {
+            "title": "Human Body",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-human-body/"
+        },
+        {
+            "title": "Hygiene",
+            "link": "https://www.storyberries.com/category/kids-books-about-hygiene/"
+        },
+        {
+            "title": "Independence",
+            "link": "https://www.storyberries.com/category/kids-books-about-independence/"
+        },
+        {
+            "title": "Indian Stories",
+            "link": "https://www.storyberries.com/category/kids-books-indian-stories/"
+        },
+        {
+            "title": "Insects",
+            "link": "https://www.storyberries.com/category/kids-books-about-insects/"
+        },
+        {
+            "title": "Japanese Stories",
+            "link": "https://www.storyberries.com/category/kids-books-japanese-stories/"
+        },
+        {
+            "title": "Jobs",
+            "link": "https://www.storyberries.com/category/kids-books-about-jobs/"
+        },
+        {
+            "title": "Kids Horror",
+            "link": "https://www.storyberries.com/category/kids-books-kids-horror/"
+        },
+        {
+            "title": "Kids Writing",
+            "link": "https://www.storyberries.com/category/kids-writing/"
+        },
+        {
+            "title": "Languages Other Than English",
+            "link": "https://www.storyberries.com/category/kids-books-languages-other-than-english/"
+        },
+        {
+            "title": "Learning",
+            "link": "https://www.storyberries.com/category/kids-books-about-learning/"
+        },
+        {
+            "title": "Length and Measurement",
+            "link": "https://www.storyberries.com/category/kids-books-about-length-and-measurement/"
+        },
+        {
+            "title": "Limericks",
+            "link": "https://www.storyberries.com/category/limericks-kids-books/"
+        },
+        {
+            "title": "Love",
+            "link": "https://www.storyberries.com/category/kids-books-about-love/"
+        },
+        {
+            "title": "Lullabies",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-lullabies/"
+        },
+        {
+            "title": "Magic",
+            "link": "https://www.storyberries.com/category/kids-books-about-magic/"
+        },
+        {
+            "title": "Maths",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-about-maths/"
+        },
+        {
+            "title": "Mermaids",
+            "link": "https://www.storyberries.com/category/kids-books-about-mermaids/"
+        },
+        {
+            "title": "Greek Myths and Fairy Tales",
+            "link": "https://www.storyberries.com/category/fairy-tales/greek-myths-and-fairy-tales/"
+        },
+        {
+            "title": "Haiku Poems",
+            "link": "https://www.storyberries.com/category/poems-for-kids/haiku-poems-for-kids/"
+        },
+        {
+            "title": "Middle Grade",
+            "link": "https://www.storyberries.com/category/middle-grade-kids-books/"
+        },
+        {
+            "title": "Mindfulness",
+            "link": "https://www.storyberries.com/category/kids-books-about-mindfulness/"
+        },
+        {
+            "title": "Monsters",
+            "link": "https://www.storyberries.com/category/kids-books-about-monsters/"
+        },
+        {
+            "title": "Morals",
+            "link": "https://www.storyberries.com/category/kids-books-with-morals/"
+        },
+        {
+            "title": "Mothers",
+            "link": "https://www.storyberries.com/category/kids-books-about-mothers/"
+        },
+        {
+            "title": "Moving House",
+            "link": "https://www.storyberries.com/category/kids-books-about-moving-house/"
+        },
+        {
+            "title": "Music",
+            "link": "https://www.storyberries.com/category/kids-books-about-music/"
+        },
+        {
+            "title": "Mysteries",
+            "link": "https://www.storyberries.com/category/kids-mystery-books/"
+        },
+        {
+            "title": "Myths",
+            "link": "https://www.storyberries.com/category/kids-books-myths-and-legends/"
+        },
+        {
+            "title": "Native American",
+            "link": "https://www.storyberries.com/category/native-american-kids-books/"
+        },
+        {
+            "title": "Neighbourhoods",
+            "link": "https://www.storyberries.com/category/kids-stories-about-neighbourhoods/"
+        },
+        {
+            "title": "Ninjas",
+            "link": "https://www.storyberries.com/category/kids-books-about-ninjas/"
+        },
+        {
+            "title": "No-Words Stories",
+            "link": "https://www.storyberries.com/category/no-words-stories-wordless-kids-books/"
+        },
+        {
+            "title": "Non-Fiction",
+            "link": "https://www.storyberries.com/category/non-fiction-kids-books/"
+        },
+        {
+            "title": "Numbers and Counting",
+            "link": "https://www.storyberries.com/category/kids-books-about-numbers-and-counting/"
+        },
+        {
+            "title": "Pets",
+            "link": "https://www.storyberries.com/category/kids-books-about-pets/"
+        },
+        {
+            "title": "Phonics Books",
+            "link": "https://www.storyberries.com/category/free-phonics-books-learn-to-read-books/"
+        },
+        {
+            "title": "Picnics",
+            "link": "https://www.storyberries.com/category/kids-books-about-picnics/"
+        },
+        {
+            "title": "Pigs",
+            "link": "https://www.storyberries.com/category/kids-books-about-pigs/"
+        },
+        {
+            "title": "Pirates",
+            "link": "https://www.storyberries.com/category/kids-books-about-pirates/"
+        },
+        {
+            "title": "Pixies",
+            "link": "https://www.storyberries.com/category/kids-books-about-pixies/"
+        },
+        {
+            "title": "Princesses and Princes",
+            "link": "https://www.storyberries.com/category/kids-books-and-stories-about-princesses-and-princes/"
+        },
+        {
+            "title": "Reading",
+            "link": "https://www.storyberries.com/category/stories-about-books-and-libraries-for-kids/"
+        },
+        {
+            "title": "Refugees",
+            "link": "https://www.storyberries.com/category/kids-books-about-refugees/"
+        },
+        {
+            "title": "Sad",
+            "link": "https://www.storyberries.com/category/sad-kids-books-and-stories/"
+        },
+        {
+            "title": "Scary",
+            "link": "https://www.storyberries.com/category/scary-stories-for-kids/"
+        },
+        {
+            "title": "School",
+            "link": "https://www.storyberries.com/category/kids-books-about-school/"
+        },
+        {
+            "title": "Science",
+            "link": "https://www.storyberries.com/category/kids-books-about-science/"
+        },
+        {
+            "title": "Seasons",
+            "link": "https://www.storyberries.com/category/kids-books-about-seasons/"
+        },
+        {
+            "title": "Senses",
+            "link": "https://www.storyberries.com/category/kids-books-about-the-five-senses/"
+        },
+        {
+            "title": "Once Untold Fairytales",
+            "link": "https://www.storyberries.com/category/fairy-tales/once-untold-fairytales/"
+        },
+        {
+            "title": "Modern Stories",
+            "link": "https://www.storyberries.com/category/10-min-stories-free-bedtime-stories-poems-fairy-tales/10-minute-modern-stories/"
+        },
+        {
+            "title": "Rhyming Stories",
+            "link": "https://www.storyberries.com/category/5-min-stories-free-bedtime-stories-poems-fairy-tales/short-rhyming-stories/"
+        },
+        {
+            "title": "Shakespeare",
+            "link": "https://www.storyberries.com/category/kids-books-about-shakespeare/"
+        },
+        {
+            "title": "Shapes",
+            "link": "https://www.storyberries.com/category/kids-books-about-shapes-early-maths/"
+        },
+        {
+            "title": "Siblings",
+            "link": "https://www.storyberries.com/category/kids-books-about-siblings-brothers-and-sisters/"
+        },
+        {
+            "title": "Sleep and Bedtime",
+            "link": "https://www.storyberries.com/category/sleep-and-bedtime-stories/"
+        },
+        {
+            "title": "Space",
+            "link": "https://www.storyberries.com/category/kids-books-about-space/"
+        },
+        {
+            "title": "Sports",
+            "link": "https://www.storyberries.com/category/kids-books-about-sports/"
+        },
+        {
+            "title": "STEM",
+            "link": "https://www.storyberries.com/category/best-kids-stem-books-online/"
+        },
+        {
+            "title": "Thanksgiving",
+            "link": "https://www.storyberries.com/category/thanksgiving-stories-kids-books/"
+        },
+        {
+            "title": "Toys",
+            "link": "https://www.storyberries.com/category/kids-books-about-toys/"
+        },
+        {
+            "title": "Tradition and Culture",
+            "link": "https://www.storyberries.com/category/kids-books-about-tradition-and-culture/"
+        },
+        {
+            "title": "Trains",
+            "link": "https://www.storyberries.com/category/kids-books-about-trains/"
+        },
+        {
+            "title": "Trolls",
+            "link": "https://www.storyberries.com/category/kids-books-about-trolls/"
+        },
+        {
+            "title": "Trucks",
+            "link": "https://www.storyberries.com/category/kids-books-about-trucks/"
+        },
+        {
+            "title": "Unicorns",
+            "link": "https://www.storyberries.com/category/kids-books-about-unicorns/"
+        },
+        {
+            "title": "Vacations",
+            "link": "https://www.storyberries.com/category/kids-books-about-vacations/"
+        },
+        {
+            "title": "Vintage Stories",
+            "link": "https://www.storyberries.com/category/vintage-stories-kids-books/"
+        },
+        {
+            "title": "Weather",
+            "link": "https://www.storyberries.com/category/kids-books-about-weather/"
+        },
+        {
+            "title": "Winter and Snow",
+            "link": "https://www.storyberries.com/category/kids-books-about-winter-and-snow/"
+        },
+        {
+            "title": "Witches",
+            "link": "https://www.storyberries.com/category/kids-books-about-witches/"
+        },
+        {
+            "title": "Wobbly Teeth",
+            "link": "https://www.storyberries.com/category/kids-books-about-wobbly-teeth-and-losing-teeth/"
+        },
+        {
+            "title": "Zombies",
+            "link": "https://www.storyberries.com/category/kids-books-about-zombies/"
+        },
+        {
+            "title": "Discussion Topics",
+            "link": "https://www.storyberries.com/short-stories-for-kids-discussion-themes/"
+        },
+        {
+            "title": "Beauty",
+            "link": "https://www.storyberries.com/tag/kids-books-about-beauty/"
+        },
+        {
+            "title": "Communication",
+            "link": "https://www.storyberries.com/tag/kids-books-about-communication/"
+        },
+        {
+            "title": "Community",
+            "link": "https://www.storyberries.com/tag/kids-books-about-community/"
+        },
+        {
+            "title": "Conversation",
+            "link": "https://www.storyberries.com/tag/kids-books-to-encourage-conversation/"
+        },
+        {
+            "title": "Co-operation",
+            "link": "https://www.storyberries.com/tag/kids-books-about-co-operation/"
+        },
+        {
+            "title": "Courage",
+            "link": "https://www.storyberries.com/tag/kids-books-about-courage/"
+        },
+        {
+            "title": "Creativity",
+            "link": "https://www.storyberries.com/tag/kids-books-about-creativity/"
+        },
+        {
+            "title": "Empathy",
+            "link": "https://www.storyberries.com/tag/kids-books-about-empathy/"
+        },
+        {
+            "title": "Fairness",
+            "link": "https://www.storyberries.com/tag/kids-books-about-fairness/"
+        },
+        {
+            "title": "Family",
+            "link": "https://www.storyberries.com/tag/kids-books-about-family/"
+        },
+        {
+            "title": "Feelings",
+            "link": "https://www.storyberries.com/tag/kids-books-about-feelings/"
+        },
+        {
+            "title": "Friendship",
+            "link": "https://www.storyberries.com/tag/kids-books-about-friendship/"
+        },
+        {
+            "title": "Gratitude",
+            "link": "https://www.storyberries.com/tag/kids-books-about-gratitude/"
+        },
+        {
+            "title": "Healthy Eating",
+            "link": "https://www.storyberries.com/tag/kids-books-about-healthy-eating/"
+        },
+        {
+            "title": "Helping",
+            "link": "https://www.storyberries.com/tag/kids-books-about-helping/"
+        },
+        {
+            "title": "Imagination",
+            "link": "https://www.storyberries.com/tag/kids-books-about-imagination/"
+        },
+        {
+            "title": "Independent Thinking",
+            "link": "https://www.storyberries.com/tag/kids-books-about-independent-thinking-and-critical-thinking/"
+        },
+        {
+            "title": "Kindness",
+            "link": "https://www.storyberries.com/tag/kids-books-about-kindness/"
+        },
+        {
+            "title": "Love",
+            "link": "https://www.storyberries.com/tag/kids-books-about-love/"
+        },
+        {
+            "title": "Optimism",
+            "link": "https://www.storyberries.com/tag/kids-books-about-optimism/"
+        },
+        {
+            "title": "Responsibility",
+            "link": "https://www.storyberries.com/tag/kids-books-about-responsibility/"
+        },
+        {
+            "title": "Self Confidence",
+            "link": "https://www.storyberries.com/tag/kids-books-about-self-confidence/"
+        },
+        {
+            "title": "Stranger Danger",
+            "link": "https://www.storyberries.com/tag/kids-books-about-stranger-danger/"
+        },
+        {
+            "title": "AUDIO BOOKS",
+            "link": "https://www.storyberries.com/storyberries-bedtime-radio/"
+        }
+    ]
+}
